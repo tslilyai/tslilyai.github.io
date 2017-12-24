@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lily Tsai on Lily Tsai</title>
+    <link>https://tslilyai.github.io/</link>
+    <description>Recent content in Lily Tsai on Lily Tsai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Lily Tsai</copyright>
+    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SDDR and Encounter-Based Networks</title>
+      <link>https://tslilyai.github.io/project/ebn/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/project/ebn/</guid>
+      <description>
+
+&lt;p&gt;The SDDR (Secure Device Discovery and Recognition) protocol allows secure Bluetooth encounters to be formed between devices and enables novel encounter-based social network applications. As part of this project, we implement the SDDR protocol in Android devices as an Android library and formalize the security properties and communication channels used by encounter-based applications.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.umd.edu/projects/ebn/&#34; target=&#34;_blank&#34;&gt;EbN project page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STO: Software Transactional Objects</title>
+      <link>https://tslilyai.github.io/project/sto/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/project/sto/</guid>
+      <description>
+
+&lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/nathanielherman/sto&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/senior_thesis/&#34;&gt;Senior Thesis&lt;/a&gt; on transactional data structures&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/sto_eurosys/&#34;&gt;EuroSys &amp;lsquo;16 Paper&lt;/a&gt; on the STO system itself&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concurrent Algorithms in Transactional Data Structures</title>
+      <link>https://tslilyai.github.io/publication/senior_thesis/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/publication/senior_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Aware Transactions for Faster Concurrent Code</title>
+      <link>https://tslilyai.github.io/publication/sto_eurosys/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
