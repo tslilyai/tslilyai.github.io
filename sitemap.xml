@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/project/ebn/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/project/ebc/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/project/sto/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/project/sto/</loc>
       <lastmod>2017-09-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/publication/senior_thesis/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</loc>
       <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/publication/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/publication/sto_eurosys/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</loc>
       <lastmod>2016-04-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/publication_types/1/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/publication_types/1/</loc>
       <lastmod>2016-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/categories/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -69,7 +69,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/tags/data-structures/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/tags/communication-systems/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -79,7 +79,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/tags/data-structures/</loc>
       <lastmod>2017-09-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -89,7 +89,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/project/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/tags/iot/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -99,7 +99,27 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/publication_types/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/</loc>
+      <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.mpi-sws.org/~tslilyai/project/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.mpi-sws.org/~tslilyai/publication_types/</loc>
       <lastmod>2016-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -109,7 +129,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/tags/software-transactional-memory/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/tags/secure-encounters/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -119,7 +139,17 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/tags/</loc>
+      <loc>https://people.mpi-sws.org/~tslilyai/tags/software-transactional-memory/</loc>
+      <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.mpi-sws.org/~tslilyai/tags/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

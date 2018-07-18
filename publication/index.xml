@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Lily Tsai</title>
-    <link>https://tslilyai.github.io/publication/</link>
+    <link>https://people.mpi-sws.org/~tslilyai/publication/</link>
     <description>Recent content in Publications on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Lily Tsai</copyright>
+    <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="/~tslilyai/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Concurrent Algorithms in Transactional Data Structures</title>
-      <link>https://tslilyai.github.io/publication/senior_thesis/</link>
+      <link>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/senior_thesis/</guid>
+      <guid>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Type Aware Transactions for Faster Concurrent Code</title>
-      <link>https://tslilyai.github.io/publication/sto_eurosys/</link>
+      <link>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
+      <guid>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</guid>
       <description></description>
     </item>
     
