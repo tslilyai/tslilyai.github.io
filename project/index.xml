@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Lily Tsai</title>
-    <link>https://people.mpi-sws.org/~tslilyai/project/</link>
+    <link>https://tslilyai.github.io/project/</link>
     <description>Recent content in Projects on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~tslilyai/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Encounter-Based Communication</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/ebc/</link>
+      <link>https://tslilyai.github.io/project/ebc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/ebc/</guid>
+      <guid>https://tslilyai.github.io/project/ebc/</guid>
       <description>&lt;p&gt;New applications enabled by personal smart devices and the
 Internet-of-Things (IoT) increasingly require communication in the
 context of an &lt;em&gt;encounter&lt;/em&gt;, defined as an interval of physical
@@ -42,10 +42,10 @@ associated with EbC.&lt;/p&gt;
     
     <item>
       <title>STO: Software Transactional Objects</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/sto/</link>
+      <link>https://tslilyai.github.io/project/sto/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/sto/</guid>
+      <guid>https://tslilyai.github.io/project/sto/</guid>
       <description>
 
 &lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;

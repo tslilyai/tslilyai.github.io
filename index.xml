@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lily Tsai on Lily Tsai</title>
-    <link>https://people.mpi-sws.org/~tslilyai/</link>
+    <link>https://tslilyai.github.io/</link>
     <description>Recent content in Lily Tsai on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~tslilyai/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Encounter-Based Communication</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/ebc/</link>
+      <link>https://tslilyai.github.io/project/ebc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/ebc/</guid>
+      <guid>https://tslilyai.github.io/project/ebc/</guid>
       <description>&lt;p&gt;New applications enabled by personal smart devices and the
 Internet-of-Things (IoT) increasingly require communication in the
 context of an &lt;em&gt;encounter&lt;/em&gt;, defined as an interval of physical
@@ -42,10 +42,10 @@ associated with EbC.&lt;/p&gt;
     
     <item>
       <title>STO: Software Transactional Objects</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/sto/</link>
+      <link>https://tslilyai.github.io/project/sto/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/sto/</guid>
+      <guid>https://tslilyai.github.io/project/sto/</guid>
       <description>
 
 &lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;
@@ -63,19 +63,19 @@ associated with EbC.&lt;/p&gt;
     
     <item>
       <title>Concurrent Algorithms in Transactional Data Structures</title>
-      <link>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</link>
+      <link>https://tslilyai.github.io/publication/senior_thesis/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</guid>
+      <guid>https://tslilyai.github.io/publication/senior_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Type Aware Transactions for Faster Concurrent Code</title>
-      <link>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</link>
+      <link>https://tslilyai.github.io/publication/sto_eurosys/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</guid>
+      <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
       <description></description>
     </item>
     
