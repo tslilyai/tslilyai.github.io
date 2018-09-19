@@ -1,81 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lily Tsai on Lily Tsai</title>
-    <link>https://tslilyai.github.io/</link>
-    <description>Recent content in Lily Tsai on Lily Tsai</description>
+    <title>Lily Tsai</title>
+    <link>https://people.mpi-sws.org/~tslilyai/</link>
+    <description>Recent content on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://people.mpi-sws.org/~tslilyai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://people.mpi-sws.org/~tslilyai/home/about/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/home/about/</guid>
+      <description>About Me I am currently a first-year PhD student at MIT as part of the PDOS group. I spent 2017-18 abroad as a Fulbright Research Fellow at MPI-SWS, where I was advised by Professor Peter Druschel, and I was previously at Harvard, where I received my Bachelor&amp;rsquo;s and Master&amp;rsquo;s degrees in Computer Science and was advised by Professor Eddie Kohler. My research interests include performance and scalability analysis, the application of formal methods to real-life systems, and designing communication systems.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://people.mpi-sws.org/~tslilyai/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://people.mpi-sws.org/~tslilyai/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://people.mpi-sws.org/~tslilyai/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/home/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Encounter-Based Communication</title>
-      <link>https://tslilyai.github.io/project/ebc/</link>
+      <link>https://people.mpi-sws.org/~tslilyai/project/ebc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/ebc/</guid>
-      <description>&lt;p&gt;New applications enabled by personal smart devices and the
-Internet-of-Things (IoT) increasingly require communication in the
-context of an &lt;em&gt;encounter&lt;/em&gt;, defined as an interval of physical
-co-location. Examples include social exchange among individuals who
-met or shared an experience, and interaction among personal and IoT
-devices that provide location-based services. This style of
-communication has unique requirements not met by existing systems: it
-should be spontaneous, privacy-preserving, secure, and possible both
-during and after an encounter.&lt;/p&gt;
-
-&lt;p&gt;We introduce a new communication paradigm called &lt;em&gt;Encounter-based Communication (EbC)&lt;/em&gt;, which uses secure encounters
-as first-class objects to bootstrap communication. Beyond direct
-communication between two devices that encountered each other, EbC
-enables powerful new forms of group communication among devices
-connected by chains of encounters, subject to spatial, temporal, and
-causality constraints. We explore the opportunities and challenges
-associated with EbC.&lt;/p&gt;
-
-&lt;p&gt;This project was done on a Fulbright grant to Germany.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gitlab.rts.mpi-sws.org/encounters/ebc&#34; target=&#34;_blank&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://people.mpi-sws.org/~tslilyai/project/ebc/</guid>
+      <description>New applications enabled by personal smart devices and the Internet-of-Things (IoT) increasingly require communication in the context of an encounter, defined as an interval of physical co-location. Examples include social exchange among individuals who met or shared an experience, and interaction among personal and IoT devices that provide location-based services. This style of communication has unique requirements not met by existing systems: it should be spontaneous, privacy-preserving, secure, and possible both during and after an encounter.</description>
     </item>
     
     <item>
       <title>STO: Software Transactional Objects</title>
-      <link>https://tslilyai.github.io/project/sto/</link>
+      <link>https://people.mpi-sws.org/~tslilyai/project/sto/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/sto/</guid>
-      <description>
-
-&lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/nathanielherman/sto&#34; target=&#34;_blank&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/senior_thesis/&#34;&gt;Senior Thesis&lt;/a&gt; on transactional data structures&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/sto_eurosys/&#34;&gt;EuroSys &amp;lsquo;16 Paper&lt;/a&gt; on the STO system itself&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://people.mpi-sws.org/~tslilyai/project/sto/</guid>
+      <description> STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.
+Source code
+Publications  Senior Thesis on transactional data structures EuroSys &amp;lsquo;16 Paper on the STO system itself  </description>
     </item>
     
     <item>
       <title>Concurrent Algorithms in Transactional Data Structures</title>
-      <link>https://tslilyai.github.io/publication/senior_thesis/</link>
+      <link>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/senior_thesis/</guid>
+      <guid>https://people.mpi-sws.org/~tslilyai/publication/senior_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Type Aware Transactions for Faster Concurrent Code</title>
-      <link>https://tslilyai.github.io/publication/sto_eurosys/</link>
+      <link>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
+      <guid>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://people.mpi-sws.org/~tslilyai/project/scr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/project/scr/</guid>
+      <description>Date this page was created. date = &amp;ldquo;2018-09-19&amp;rdquo;
+Project title. title = &amp;ldquo;The Scalable Commutativity Rule&amp;rdquo;
+Project summary to display on homepage. summary = &amp;ldquo;We introduce a new communication paradighmed called Encounter-based Communicaion (EbC), which uses secure encounters as first-class objects to bootstrap communication.&amp;rdquo;
+Optional image to display on homepage (relative to static/img/ folder). #image_preview = &amp;ldquo;bubbles.jpg&amp;rdquo;
+Tags: can be used for filtering projects. tags = [&amp;ldquo;scalability&amp;rdquo;, &amp;ldquo;commutativity&amp;rdquo;]
+Optional external URL for project (replaces project detail page).</description>
+    </item>
+    
+    <item>
+      <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>
+      <link>https://people.mpi-sws.org/~tslilyai/publication/scr_proof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/publication/scr_proof/</guid>
       <description></description>
     </item>
     
