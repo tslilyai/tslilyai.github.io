@@ -40,10 +40,8 @@ Publications  Senior Thesis on transactional data structures EuroSys &amp;lsquo;
       <guid>https://people.mpi-sws.org/~tslilyai/project/scr/</guid>
       <description>Date this page was created. date = &amp;ldquo;2018-09-19&amp;rdquo;
 Project title. title = &amp;ldquo;The Scalable Commutativity Rule&amp;rdquo;
-Project summary to display on homepage. summary = &amp;ldquo;We introduce a new communication paradighmed called Encounter-based Communicaion (EbC), which uses secure encounters as first-class objects to bootstrap communication.&amp;rdquo;
-Optional image to display on homepage (relative to static/img/ folder). #image_preview = &amp;ldquo;bubbles.jpg&amp;rdquo;
-Tags: can be used for filtering projects. tags = [&amp;ldquo;scalability&amp;rdquo;, &amp;ldquo;commutativity&amp;rdquo;]
-Optional external URL for project (replaces project detail page).</description>
+Project summary to display on homepage. summary = &amp;ldquo;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation.
+The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system.</description>
     </item>
     
   </channel>
