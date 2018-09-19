@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on Lily Tsai</title>
+    <link>https://people.mpi-sws.org/~tslilyai/tags/iot/</link>
+    <description>Recent content in IoT on Lily Tsai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Lily Tsai</copyright>
+    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.mpi-sws.org/~tslilyai/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Encounter-Based Communication</title>
+      <link>https://people.mpi-sws.org/~tslilyai/project/ebc/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.mpi-sws.org/~tslilyai/project/ebc/</guid>
+      <description>New applications enabled by personal smart devices and the Internet-of-Things (IoT) increasingly require communication in the context of an encounter, defined as an interval of physical co-location. Examples include social exchange among individuals who met or shared an experience, and interaction among personal and IoT devices that provide location-based services. This style of communication has unique requirements not met by existing systems: it should be spontaneous, privacy-preserving, secure, and possible both during and after an encounter.</description>
+    </item>
+    
+  </channel>
+</rss>
