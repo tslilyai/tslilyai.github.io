@@ -1,134 +1,164 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://tslilyai.github.io/home/about/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/project/ebc/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/project/sto/</loc>
+      <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication/senior_thesis/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/project/ebc/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication/sto_eurosys/</loc>
+      <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/project/sto/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/project/scr/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/publication/senior_thesis/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication_types/0/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/publication/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication_types/1/</loc>
+      <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/publication/sto_eurosys/</loc>
-    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication/scr_proof/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/project/scr/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/publication_types/0/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/communication-systems/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/publication_types/1/</loc>
-    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/data-structures/</loc>
+      <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/publication/scr_proof/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/iot/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/</loc>
+      <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/tags/communication-systems/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/project/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/tags/data-structures/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/publication_types/</loc>
+      <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/home/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/secure-encounters/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/tags/iot/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/software-transactional-memory/</loc>
+      <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://tslilyai.github.io/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tslilyai.github.io/project/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tslilyai.github.io/publication_types/</loc>
-    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tslilyai.github.io/tags/secure-encounters/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tslilyai.github.io/tags/software-transactional-memory/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tslilyai.github.io/tags/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
