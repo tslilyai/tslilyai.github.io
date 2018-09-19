@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Lily Tsai</title>
-    <link>https://people.mpi-sws.org/~tslilyai/home/</link>
+    <link>https://tslilyai.github.io/home/</link>
     <description>Recent content in Homes on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.mpi-sws.org/~tslilyai/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tslilyai.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://people.mpi-sws.org/~tslilyai/home/about/</link>
+      <link>https://tslilyai.github.io/home/about/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/home/about/</guid>
+      <guid>https://tslilyai.github.io/home/about/</guid>
       <description>About Me I am currently a first-year PhD student at MIT as part of the PDOS group. I spent 2017-18 abroad as a Fulbright Research Fellow at MPI-SWS, where I was advised by Professor Peter Druschel, and I was previously at Harvard, where I received my Bachelor&amp;rsquo;s and Master&amp;rsquo;s degrees in Computer Science and was advised by Professor Eddie Kohler. My research interests include performance and scalability analysis, the application of formal methods to real-life systems, and designing communication systems.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://people.mpi-sws.org/~tslilyai/home/publications/</link>
+      <link>https://tslilyai.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/home/publications/</guid>
+      <guid>https://tslilyai.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://people.mpi-sws.org/~tslilyai/home/projects/</link>
+      <link>https://tslilyai.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/home/projects/</guid>
+      <guid>https://tslilyai.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://people.mpi-sws.org/~tslilyai/home/contact/</link>
+      <link>https://tslilyai.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/home/contact/</guid>
+      <guid>https://tslilyai.github.io/home/contact/</guid>
       <description></description>
     </item>
     

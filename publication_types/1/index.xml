@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Lily Tsai</title>
-    <link>https://people.mpi-sws.org/~tslilyai/publication_types/1/</link>
+    <link>https://tslilyai.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Mon, 18 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.mpi-sws.org/~tslilyai/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tslilyai.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Type Aware Transactions for Faster Concurrent Code</title>
-      <link>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</link>
+      <link>https://tslilyai.github.io/publication/sto_eurosys/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/publication/sto_eurosys/</guid>
+      <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
       <description></description>
     </item>
     

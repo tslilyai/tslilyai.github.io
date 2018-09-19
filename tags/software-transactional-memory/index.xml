@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Transactional Memory on Lily Tsai</title>
-    <link>https://people.mpi-sws.org/~tslilyai/tags/software-transactional-memory/</link>
+    <link>https://tslilyai.github.io/tags/software-transactional-memory/</link>
     <description>Recent content in Software Transactional Memory on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.mpi-sws.org/~tslilyai/tags/software-transactional-memory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tslilyai.github.io/tags/software-transactional-memory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>STO: Software Transactional Objects</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/sto/</link>
+      <link>https://tslilyai.github.io/project/sto/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/sto/</guid>
+      <guid>https://tslilyai.github.io/project/sto/</guid>
       <description> STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.
 Source code
 Publications  Senior Thesis on transactional data structures EuroSys &amp;lsquo;16 Paper on the STO system itself  </description>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Lily Tsai</title>
-    <link>https://people.mpi-sws.org/~tslilyai/project/</link>
+    <link>https://tslilyai.github.io/project/</link>
     <description>Recent content in Projects on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
     <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.mpi-sws.org/~tslilyai/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tslilyai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encounter-Based Communication</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/ebc/</link>
+      <link>https://tslilyai.github.io/project/ebc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/ebc/</guid>
+      <guid>https://tslilyai.github.io/project/ebc/</guid>
       <description>New applications enabled by personal smart devices and the Internet-of-Things (IoT) increasingly require communication in the context of an encounter, defined as an interval of physical co-location. Examples include social exchange among individuals who met or shared an experience, and interaction among personal and IoT devices that provide location-based services. This style of communication has unique requirements not met by existing systems: it should be spontaneous, privacy-preserving, secure, and possible both during and after an encounter.</description>
     </item>
     
     <item>
       <title>STO: Software Transactional Objects</title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/sto/</link>
+      <link>https://tslilyai.github.io/project/sto/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/sto/</guid>
+      <guid>https://tslilyai.github.io/project/sto/</guid>
       <description> STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.
 Source code
 Publications  Senior Thesis on transactional data structures EuroSys &amp;lsquo;16 Paper on the STO system itself  </description>
@@ -34,10 +34,10 @@ Publications  Senior Thesis on transactional data structures EuroSys &amp;lsquo;
     
     <item>
       <title></title>
-      <link>https://people.mpi-sws.org/~tslilyai/project/scr/</link>
+      <link>https://tslilyai.github.io/project/scr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://people.mpi-sws.org/~tslilyai/project/scr/</guid>
+      <guid>https://tslilyai.github.io/project/scr/</guid>
       <description>Date this page was created. date = &amp;ldquo;2018-09-19&amp;rdquo;
 Project title. title = &amp;ldquo;The Scalable Commutativity Rule&amp;rdquo;
 Project summary to display on homepage. summary = &amp;ldquo;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation.
