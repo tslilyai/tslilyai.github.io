@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
-    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Scalable Commutativity Rule</title>
+      <link>https://tslilyai.github.io/project/scr/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/project/scr/</guid>
+      <description>The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation. The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.</description>
+    </item>
     
     <item>
       <title>Encounter-Based Communication</title>
@@ -27,21 +36,8 @@
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tslilyai.github.io/project/sto/</guid>
-      <description> STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.
-Source code
-Publications  Senior Thesis on transactional data structures EuroSys &amp;lsquo;16 Paper on the STO system itself  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://tslilyai.github.io/project/scr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tslilyai.github.io/project/scr/</guid>
-      <description>Date this page was created. date = &amp;ldquo;2018-09-19&amp;rdquo;
-Project title. title = &amp;ldquo;The Scalable Commutativity Rule&amp;rdquo;
-Project summary to display on homepage. summary = &amp;ldquo;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation.
-The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system.</description>
+      <description>STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.
+Source code</description>
     </item>
     
   </channel>

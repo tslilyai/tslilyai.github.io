@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Scalable Commutativity Rule</title>
+      <link>https://tslilyai.github.io/project/scr/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/project/scr/</guid>
+      <description>&lt;p&gt;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation. The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>
+      <link>https://tslilyai.github.io/publication/scr_proof/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/publication/scr_proof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Encounter-Based Communication</title>
       <link>https://tslilyai.github.io/project/ebc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
@@ -46,18 +65,9 @@ associated with EbC.&lt;/p&gt;
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tslilyai.github.io/project/sto/</guid>
-      <description>
-
-&lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;
+      <description>&lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/nathanielherman/sto&#34; target=&#34;_blank&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/senior_thesis/&#34;&gt;Senior Thesis&lt;/a&gt; on transactional data structures&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../publication/sto_eurosys/&#34;&gt;EuroSys &amp;lsquo;16 Paper&lt;/a&gt; on the STO system itself&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -76,67 +86,6 @@ associated with EbC.&lt;/p&gt;
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://tslilyai.github.io/project/scr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tslilyai.github.io/project/scr/</guid>
-      <description>
-
-&lt;h1 id=&#34;date-this-page-was-created&#34;&gt;Date this page was created.&lt;/h1&gt;
-
-&lt;p&gt;date = &amp;ldquo;2018-09-19&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;project-title&#34;&gt;Project title.&lt;/h1&gt;
-
-&lt;p&gt;title = &amp;ldquo;The Scalable Commutativity Rule&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;project-summary-to-display-on-homepage&#34;&gt;Project summary to display on homepage.&lt;/h1&gt;
-
-&lt;p&gt;summary = &amp;ldquo;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation.&lt;/p&gt;
-
-&lt;p&gt;The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-image-to-display-on-homepage-relative-to-static-img-folder&#34;&gt;Optional image to display on homepage (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-
-&lt;p&gt;#image_preview = &amp;ldquo;bubbles.jpg&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;tags-can-be-used-for-filtering-projects&#34;&gt;Tags: can be used for filtering projects.&lt;/h1&gt;
-
-&lt;p&gt;tags = [&amp;ldquo;scalability&amp;rdquo;, &amp;ldquo;commutativity&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
-
-&lt;p&gt;external_link = &amp;ldquo;&lt;a href=&#34;https://pdos.csail.mit.edu/archive/commuter/&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://pdos.csail.mit.edu/archive/commuter/&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-project-detail-page-use-math-formatting&#34;&gt;Does the project detail page use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = false&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-featured-image-relative-to-static-img-folder&#34;&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-
-&lt;p&gt;#[header]
-#image = &amp;ldquo;headers/bubbles-wide.jpg&amp;rdquo;
-#caption = &amp;ldquo;My caption 😄&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation.&lt;/p&gt;
-
-&lt;p&gt;The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>
-      <link>https://tslilyai.github.io/publication/scr_proof/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tslilyai.github.io/publication/scr_proof/</guid>
       <description></description>
     </item>
     

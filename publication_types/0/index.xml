@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Lily Tsai</copyright>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>
       <link>https://tslilyai.github.io/publication/scr_proof/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tslilyai.github.io/publication/scr_proof/</guid>
       <description></description>
