@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Lily Tsai</copyright>
-    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Lily Tsai</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Communication Systems</title>
-      <link>https://tslilyai.github.io/tags/communication-systems/</link>
-      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://tslilyai.github.io/tags/communication-systems/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Commutativity</title>
@@ -40,11 +31,47 @@
     </item>
     
     <item>
-      <title>IoT</title>
-      <link>https://tslilyai.github.io/tags/iot/</link>
+      <title>Encounter-based communication</title>
+      <link>https://tslilyai.github.io/tags/encounter-based-communication/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/tags/iot/</guid>
+      <guid>https://tslilyai.github.io/tags/encounter-based-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group communication</title>
+      <link>https://tslilyai.github.io/tags/group-communication/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/tags/group-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet-of-Things (IoT)</title>
+      <link>https://tslilyai.github.io/tags/internet-of-things-iot/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/tags/internet-of-things-iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile computing</title>
+      <link>https://tslilyai.github.io/tags/mobile-computing/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/tags/mobile-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://tslilyai.github.io/tags/privacy/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
@@ -54,15 +81,6 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tslilyai.github.io/tags/scalability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure encounters</title>
-      <link>https://tslilyai.github.io/tags/secure-encounters/</link>
-      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://tslilyai.github.io/tags/secure-encounters/</guid>
       <description></description>
     </item>
     

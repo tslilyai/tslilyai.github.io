@@ -15,20 +15,20 @@
   
     
   
-  <meta name="description" content="We introduce a new communication paradighmed called _Encounter-based Communicaion (EbC)_, which uses secure encounters as first-class objects to bootstrap communication.">
+  <meta name="description" content="enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://tslilyai.github.io/project/ebc/">
-
-  
-
+  <link rel="alternate" hreflang="en-us" href="https://tslilyai.github.io/project/enc/">
 
   
 
+
+  
+
   
   
   
-  <meta name="theme-color" content="#795548">
+  <meta name="theme-color" content="#006400">
   
 
   
@@ -82,14 +82,14 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://tslilyai.github.io/project/ebc/">
+  <link rel="canonical" href="https://tslilyai.github.io/project/enc/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Lily Tsai">
-  <meta property="og:url" content="https://tslilyai.github.io/project/ebc/">
-  <meta property="og:title" content="Encounter-Based Communication | Lily Tsai">
-  <meta property="og:description" content="We introduce a new communication paradighmed called _Encounter-based Communicaion (EbC)_, which uses secure encounters as first-class objects to bootstrap communication.">
+  <meta property="og:url" content="https://tslilyai.github.io/project/enc/">
+  <meta property="og:title" content="enClosure: Group Communication via Encounter Closures | Lily Tsai">
+  <meta property="og:description" content="enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.">
   
   
     
@@ -105,7 +105,7 @@
 
   
 
-  <title>Encounter-Based Communication | Lily Tsai</title>
+  <title>enClosure: Group Communication via Encounter Closures | Lily Tsai</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -226,7 +226,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Encounter-Based Communication</h1>
+      <h1 itemprop="name">enClosure: Group Communication via Encounter Closures</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="float-right">
         
@@ -234,35 +234,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Encounter-Based%20Communication&amp;url=https%3a%2f%2ftslilyai.github.io%2fproject%2febc%2f"
+         href="https://twitter.com/intent/tweet?text=enClosure%3a%20Group%20Communication%20via%20Encounter%20Closures&amp;url=https%3a%2f%2ftslilyai.github.io%2fproject%2fenc%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftslilyai.github.io%2fproject%2febc%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftslilyai.github.io%2fproject%2fenc%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftslilyai.github.io%2fproject%2febc%2f&amp;title=Encounter-Based%20Communication"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftslilyai.github.io%2fproject%2fenc%2f&amp;title=enClosure%3a%20Group%20Communication%20via%20Encounter%20Closures"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftslilyai.github.io%2fproject%2febc%2f&amp;title=Encounter-Based%20Communication"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftslilyai.github.io%2fproject%2fenc%2f&amp;title=enClosure%3a%20Group%20Communication%20via%20Encounter%20Closures"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Encounter-Based%20Communication&amp;body=https%3a%2f%2ftslilyai.github.io%2fproject%2febc%2f">
+         href="mailto:?subject=enClosure%3a%20Group%20Communication%20via%20Encounter%20Closures&amp;body=https%3a%2f%2ftslilyai.github.io%2fproject%2fenc%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -276,27 +276,10 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p>New applications enabled by personal smart devices and the
-Internet-of-Things (IoT) increasingly require communication in the
-context of an <em>encounter</em>, defined as an interval of physical
-co-location. Examples include social exchange among individuals who
-met or shared an experience, and interaction among personal and IoT
-devices that provide location-based services. This style of
-communication has unique requirements not met by existing systems: it
-should be spontaneous, privacy-preserving, secure, and possible both
-during and after an encounter.</p>
-
-<p>We introduce a new communication paradigm called <em>Encounter-based Communication (EbC)</em>, which uses secure encounters
-as first-class objects to bootstrap communication. Beyond direct
-communication between two devices that encountered each other, EbC
-enables powerful new forms of group communication among devices
-connected by chains of encounters, subject to spatial, temporal, and
-causality constraints. We explore the opportunities and challenges
-associated with EbC.</p>
+      <p>The enClosure project is part of a larger project addressing <a href="http://www.cs.umd.edu/projects/ebn/" target="_blank">EbN: Encounter-based Networking</a>.
+enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.</p>
 
 <p>This project was done on a Fulbright grant to Germany.</p>
-
-<p><a href="https://gitlab.rts.mpi-sws.org/encounters/ebc" target="_blank">Source code</a></p>
 
     </div>
 
@@ -305,11 +288,15 @@ associated with EbC.</p>
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/iot/">IoT</a>
+  <a class="badge badge-light" href="/tags/mobile-computing/">mobile computing</a>
   
-  <a class="badge badge-light" href="/tags/secure-encounters/">Secure encounters</a>
+  <a class="badge badge-light" href="/tags/privacy/">privacy</a>
   
-  <a class="badge badge-light" href="/tags/communication-systems/">Communication Systems</a>
+  <a class="badge badge-light" href="/tags/group-communication/">group communication</a>
+  
+  <a class="badge badge-light" href="/tags/encounter-based-communication/">encounter-based communication</a>
+  
+  <a class="badge badge-light" href="/tags/internet-of-things-iot/">Internet-of-Things (IoT)</a>
   
 </div>
 
@@ -324,6 +311,53 @@ associated with EbC.</p>
       
       
       
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Lillian Tsai, Roberta De Viti, Matthew Lentz, Stefan Saroiu, Bobby Bhattacharjee, Peter Druschel</span>.
+  <a href="/publication/enclosure/" itemprop="name">enClosure: Group Communication via Encounter Closures</a>.
+  MobiSys &lsquo;19,
+  2019.
+  <p>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/enc.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://gitlab.rts.mpi-sws.org/encounters/ebc" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/enc/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
       
 
       
@@ -342,7 +376,7 @@ associated with EbC.</p>
   
 
   <p class="powered-by">
-    &copy; 2018 Lily Tsai &middot; 
+    &copy; 2019 Lily Tsai &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

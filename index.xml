@@ -6,9 +6,18 @@
     <description>Recent content in Lily Tsai on Lily Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Lily Tsai</copyright>
+    <copyright>&amp;copy; 2019 Lily Tsai</copyright>
     <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>enClosure: Group Communication via Encounter Closures</title>
+      <link>https://tslilyai.github.io/publication/enclosure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/publication/enclosure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Scalable Commutativity Rule</title>
@@ -30,32 +39,15 @@
     </item>
     
     <item>
-      <title>Encounter-Based Communication</title>
-      <link>https://tslilyai.github.io/project/ebc/</link>
+      <title>enClosure: Group Communication via Encounter Closures</title>
+      <link>https://tslilyai.github.io/project/enc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/ebc/</guid>
-      <description>&lt;p&gt;New applications enabled by personal smart devices and the
-Internet-of-Things (IoT) increasingly require communication in the
-context of an &lt;em&gt;encounter&lt;/em&gt;, defined as an interval of physical
-co-location. Examples include social exchange among individuals who
-met or shared an experience, and interaction among personal and IoT
-devices that provide location-based services. This style of
-communication has unique requirements not met by existing systems: it
-should be spontaneous, privacy-preserving, secure, and possible both
-during and after an encounter.&lt;/p&gt;
-
-&lt;p&gt;We introduce a new communication paradigm called &lt;em&gt;Encounter-based Communication (EbC)&lt;/em&gt;, which uses secure encounters
-as first-class objects to bootstrap communication. Beyond direct
-communication between two devices that encountered each other, EbC
-enables powerful new forms of group communication among devices
-connected by chains of encounters, subject to spatial, temporal, and
-causality constraints. We explore the opportunities and challenges
-associated with EbC.&lt;/p&gt;
+      <guid>https://tslilyai.github.io/project/enc/</guid>
+      <description>&lt;p&gt;The enClosure project is part of a larger project addressing &lt;a href=&#34;http://www.cs.umd.edu/projects/ebn/&#34; target=&#34;_blank&#34;&gt;EbN: Encounter-based Networking&lt;/a&gt;.
+enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.&lt;/p&gt;
 
 &lt;p&gt;This project was done on a Fulbright grant to Germany.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gitlab.rts.mpi-sws.org/encounters/ebc&#34; target=&#34;_blank&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

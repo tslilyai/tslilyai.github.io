@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://tslilyai.github.io/publication/enclosure/</loc>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://tslilyai.github.io/project/scr/</loc>
       <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     </url>
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/project/ebc/</loc>
+      <loc>https://tslilyai.github.io/project/enc/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -70,7 +78,7 @@
     <url>
     
       <loc>https://tslilyai.github.io/publication_types/1/</loc>
-      <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -79,15 +87,6 @@
     <url>
     
       <loc>https://tslilyai.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://tslilyai.github.io/tags/communication-systems/</loc>
-      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -113,7 +112,25 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/tags/iot/</loc>
+      <loc>https://tslilyai.github.io/tags/encounter-based-communication/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/group-communication/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/internet-of-things-iot/</loc>
       <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -124,6 +141,24 @@
     
       <loc>https://tslilyai.github.io/</loc>
       <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/mobile-computing/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tslilyai.github.io/tags/privacy/</loc>
+      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -158,15 +193,6 @@
     
     <url>
     
-      <loc>https://tslilyai.github.io/tags/secure-encounters/</loc>
-      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://tslilyai.github.io/tags/software-transactional-memory/</loc>
       <lastmod>2017-09-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -177,7 +203,7 @@
     <url>
     
       <loc>https://tslilyai.github.io/tags/</loc>
-      <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
