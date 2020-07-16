@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Lily Tsai</copyright>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers</title>
-      <link>https://tslilyai.github.io/publication/oakland2020/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tslilyai.github.io/publication/oakland2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>

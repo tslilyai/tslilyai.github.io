@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Lily Tsai</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers</title>
+      <link>https://tslilyai.github.io/publication/oakland2020/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/publication/oakland2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>enClosure: Group Communication via Encounter Closures</title>
