@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Lillian Tsai</title>
+    <link>https://tslilyai.github.io/papers/</link>
+    <description>Recent content in Papers on Lillian Tsai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tslilyai.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers</title>
+      <link>https://tslilyai.github.io/papers/oakland2020/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/oakland2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enClosure: Group Communication via Encounter Closures</title>
+      <link>https://tslilyai.github.io/papers/enclosure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/enclosure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Scalable Commutativity Rule</title>
+      <link>https://tslilyai.github.io/papers/scr/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/scr/</guid>
+      <description>The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation. The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.</description>
+    </item>
+    
+    <item>
+      <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>
+      <link>https://tslilyai.github.io/papers/scr_proof/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/scr_proof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enClosure: Group Communication via Encounter Closures</title>
+      <link>https://tslilyai.github.io/papers/enc/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/enc/</guid>
+      <description>enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.</description>
+    </item>
+    
+    <item>
+      <title>STO: Software Transactional Objects</title>
+      <link>https://tslilyai.github.io/papers/sto/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/sto/</guid>
+      <description>STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.</description>
+    </item>
+    
+    <item>
+      <title>Concurrent Algorithms in Transactional Data Structures</title>
+      <link>https://tslilyai.github.io/papers/senior_thesis/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/senior_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Aware Transactions for Faster Concurrent Code</title>
+      <link>https://tslilyai.github.io/papers/sto_eurosys/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/papers/sto_eurosys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

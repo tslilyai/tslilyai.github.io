@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lily Tsai</title>
+    <title>Tags on Lillian Tsai</title>
     <link>https://tslilyai.github.io/tags/</link>
-    <description>Recent content in Tags on Lily Tsai</description>
+    <description>Recent content in Tags on Lillian Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Lily Tsai</copyright>
+    <language>en</language>
     <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Commutativity</title>
+      <title>commutativity</title>
       <link>https://tslilyai.github.io/tags/commutativity/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -22,16 +21,16 @@
     </item>
     
     <item>
-      <title>Data structures</title>
-      <link>https://tslilyai.github.io/tags/data-structures/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <title>scalability</title>
+      <link>https://tslilyai.github.io/tags/scalability/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/tags/data-structures/</guid>
+      <guid>https://tslilyai.github.io/tags/scalability/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Encounter-based communication</title>
+      <title>encounter-based communication</title>
       <link>https://tslilyai.github.io/tags/encounter-based-communication/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -40,7 +39,7 @@
     </item>
     
     <item>
-      <title>Group communication</title>
+      <title>group communication</title>
       <link>https://tslilyai.github.io/tags/group-communication/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -58,7 +57,7 @@
     </item>
     
     <item>
-      <title>Mobile computing</title>
+      <title>mobile computing</title>
       <link>https://tslilyai.github.io/tags/mobile-computing/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -67,7 +66,7 @@
     </item>
     
     <item>
-      <title>Privacy</title>
+      <title>privacy</title>
       <link>https://tslilyai.github.io/tags/privacy/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -76,11 +75,11 @@
     </item>
     
     <item>
-      <title>Scalability</title>
-      <link>https://tslilyai.github.io/tags/scalability/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <title>data structures</title>
+      <link>https://tslilyai.github.io/tags/data-structures/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/tags/scalability/</guid>
+      <guid>https://tslilyai.github.io/tags/data-structures/</guid>
       <description></description>
     </item>
     

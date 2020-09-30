@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile computing on Lily Tsai</title>
+    <title>mobile computing on Lillian Tsai</title>
     <link>https://tslilyai.github.io/tags/mobile-computing/</link>
-    <description>Recent content in Mobile computing on Lily Tsai</description>
+    <description>Recent content in mobile computing on Lillian Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Lily Tsai</copyright>
+    <language>en</language>
     <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/tags/mobile-computing/index.xml" rel="self" type="application/rss+xml" />
@@ -14,11 +13,11 @@
     
     <item>
       <title>enClosure: Group Communication via Encounter Closures</title>
-      <link>https://tslilyai.github.io/project/enc/</link>
+      <link>https://tslilyai.github.io/papers/enc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/enc/</guid>
-      <description>The enClosure project is part of a larger project addressing EbN: Encounter-based Networking. enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.</description>
+      <guid>https://tslilyai.github.io/papers/enc/</guid>
+      <description>enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.</description>
     </item>
     
   </channel>

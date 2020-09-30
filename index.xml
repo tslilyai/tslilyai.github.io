@@ -1,93 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lily Tsai on Lily Tsai</title>
+    <title>Lillian Tsai</title>
     <link>https://tslilyai.github.io/</link>
-    <description>Recent content in Lily Tsai on Lily Tsai</description>
+    <description>Recent content on Lillian Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Lily Tsai</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tslilyai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Words that cheer me up</title>
+      <link>https://tslilyai.github.io/personal/jokes/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/personal/jokes/</guid>
+      <description>From my favorite TV show, Jeopardy:  Q: To live until you are very very old or to widen one&amp;rsquo;s pupils. A: What is dilate? Q: The ant that bothers Siddhartha. A: What is Budapest?  Miscellaneous one-liners:  Time flies like an arrow, fruit flies like a banana. I tried to sharpen my pencil, but it was pointless. I can count to 2 3. I have a horse named Mayo.</description>
+    </item>
     
     <item>
       <title>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers</title>
-      <link>https://tslilyai.github.io/publication/oakland2020/</link>
+      <link>https://tslilyai.github.io/papers/oakland2020/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/oakland2020/</guid>
+      <guid>https://tslilyai.github.io/papers/oakland2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>enClosure: Group Communication via Encounter Closures</title>
-      <link>https://tslilyai.github.io/publication/enclosure/</link>
+      <link>https://tslilyai.github.io/papers/enclosure/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/enclosure/</guid>
+      <guid>https://tslilyai.github.io/papers/enclosure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Scalable Commutativity Rule</title>
-      <link>https://tslilyai.github.io/project/scr/</link>
+      <link>https://tslilyai.github.io/papers/scr/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/scr/</guid>
-      <description>&lt;p&gt;The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation. The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.&lt;/p&gt;
-</description>
+      <guid>https://tslilyai.github.io/papers/scr/</guid>
+      <description>The scalable commutativity rule states that whenever interface operations commute, they have a conflict-free implementation. The initial SOSP 2013 paper included a full formal treatment of the rule, a detailed explanation of Commuter (an automated scalability testing tool), and how we applied the rule and Commuter to build a POSIX file system and virtual memory system. We are now exploring further the relationship between commutativity and scalability driven by the insights we gained from verifying the SCR.</description>
     </item>
     
     <item>
       <title>A Revised and Verified Proof of the Scalable Commutativity Rule</title>
-      <link>https://tslilyai.github.io/publication/scr_proof/</link>
+      <link>https://tslilyai.github.io/papers/scr_proof/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/scr_proof/</guid>
+      <guid>https://tslilyai.github.io/papers/scr_proof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>enClosure: Group Communication via Encounter Closures</title>
-      <link>https://tslilyai.github.io/project/enc/</link>
+      <link>https://tslilyai.github.io/papers/enc/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/enc/</guid>
-      <description>&lt;p&gt;The enClosure project is part of a larger project addressing &lt;a href=&#34;http://www.cs.umd.edu/projects/ebn/&#34; target=&#34;_blank&#34;&gt;EbN: Encounter-based Networking&lt;/a&gt;.
-enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.&lt;/p&gt;
-
-&lt;p&gt;This project was done on a Fulbright grant to Germany.&lt;/p&gt;
-</description>
+      <guid>https://tslilyai.github.io/papers/enc/</guid>
+      <description>enClosure is a service providing group communication based on encounter closures for mobile and IoT applications. We implemented a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we showed that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications rangingfrom connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons.</description>
     </item>
     
     <item>
       <title>STO: Software Transactional Objects</title>
-      <link>https://tslilyai.github.io/project/sto/</link>
+      <link>https://tslilyai.github.io/papers/sto/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/project/sto/</guid>
-      <description>&lt;p&gt;STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/nathanielherman/sto&#34; target=&#34;_blank&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://tslilyai.github.io/papers/sto/</guid>
+      <description>STO is a Software Transactional Memory (STM) that improves performance by tracking abstract operations instead of memory words.</description>
     </item>
     
     <item>
       <title>Concurrent Algorithms in Transactional Data Structures</title>
-      <link>https://tslilyai.github.io/publication/senior_thesis/</link>
+      <link>https://tslilyai.github.io/papers/senior_thesis/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/senior_thesis/</guid>
+      <guid>https://tslilyai.github.io/papers/senior_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Type Aware Transactions for Faster Concurrent Code</title>
-      <link>https://tslilyai.github.io/publication/sto_eurosys/</link>
+      <link>https://tslilyai.github.io/papers/sto_eurosys/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tslilyai.github.io/publication/sto_eurosys/</guid>
+      <guid>https://tslilyai.github.io/papers/sto_eurosys/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tslilyai.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/about/</guid>
+      <description>About Me I am currently a third-year PhD student at MIT as part of the PDOS group, advised by Professor Frans Kaashoek. My research interests broadly include systems ensuring data privacy, performance and scalability in systems, and the application of formal methods to real-life software.
+Besides research, I enjoy playing violin, reading, rock climbing, and exploring the world around me. I am always free to sightread chamber music!
+History I spent 2017-18 abroad as a Fulbright Research Fellow at MPI-SWS, where I was advised by Professor Peter Druschel.</description>
     </item>
     
   </channel>
