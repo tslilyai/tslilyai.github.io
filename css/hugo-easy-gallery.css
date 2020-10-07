@@ -7,6 +7,21 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 /*
 Grid Layout Styles
 */
+.vid {
+    float:left;
+    margin-left: auto;
+    margin-right: 30px;
+    max-width: 768px;
+}
+@media only screen and (min-width : 9999px) {
+   .vid {
+      width: 50%;
+   }
+}
+
+/*
+Grid Layout Styles
+*/
 .gallery {
     overflow: hidden;
     margin-left: auto;
