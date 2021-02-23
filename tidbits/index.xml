@@ -6,10 +6,20 @@
     <description>Recent content in Tidbits on Lillian Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tslilyai.github.io/tidbits/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Kind of Person, or Kind-Of a Person?</title>
+      <link>https://tslilyai.github.io/tidbits/person/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tslilyai.github.io/tidbits/person/</guid>
+      <description>I close my eyes and imagine a world where I am only this: a violinist on a stage, where the music becomes my everything. I often play this way, temporarily blind to the reality that, after my final note fades, I will spend the rest of tonight staring blankly at a blinking terminal cursor.
+Music has many parallels with computer science research, at least the classical chamber music that I play.</description>
+    </item>
     
     <item>
       <title>The Breaking Point</title>
