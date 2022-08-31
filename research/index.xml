@@ -5,10 +5,6 @@
     <link>https://tslilyai.github.io/research/</link>
     <description>Recent content in Research on Lillian Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://tslilyai.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://tslilyai.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

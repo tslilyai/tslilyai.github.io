@@ -6,11 +6,7 @@
     <description>Recent content in mobile computing on Lillian Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://tslilyai.github.io/tags/mobile-computing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://tslilyai.github.io/tags/mobile-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>enClosure: Group Communication via Encounter Closures</title>
       <link>https://tslilyai.github.io/papers/enc/</link>
