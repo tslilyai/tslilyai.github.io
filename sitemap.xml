@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tslilyai.github.io/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tslilyai.github.io/tidbits/</loc>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tslilyai.github.io/tidbits/jokes/</loc>
+    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tslilyai.github.io/papers/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
@@ -14,14 +20,8 @@
     <loc>https://tslilyai.github.io/tidbits/person/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tslilyai.github.io/tidbits/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tslilyai.github.io/tidbits/break/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tslilyai.github.io/tidbits/jokes/</loc>
-    <lastmod>2020-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tslilyai.github.io/papers/oakland2020/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
