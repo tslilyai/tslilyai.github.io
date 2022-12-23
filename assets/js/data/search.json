@@ -1,0 +1,786 @@
+[
+  
+  {
+    "title": "People and Awards",
+    "url": "/posts/collaborators/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-12-22 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Awards  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)  1st Prize National ...",
+    "content": "Awards  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)  1st Prize National Winner, American String Teachers Association (ASTA) National Solo Competition (Junior Violin; Kansas City, MO; 2011)  1st Prize Winner, Peninsula Symphony Young Musicians’ Competition (Solo performance with the Symphony; Los Altos and Redwood City, CA; 2012)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Strings 2011)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Ensemble 2010)Teachers and Mentors  Li Lin  Lynn Chang  The Parker String Quartet  Hengjin Park  Marcus Thompson  Natalie Lin Douglas  Susan Bates  Music@Menlo Faculty Coaches  The St. Lawrence String Quartet  Lena GrozmanSymphony and Chamber Groups  Tsai Duo  Apollo Ensemble (Concertmistress)  River Charles Ensemble at Harvard (Artistic Director)  Brattle Street Chamber Players at Harvard  National Youth Orchestra of the USA (Concertmistress)  San Francisco Symphony Youth Orchestra  The Elara QuartetRecent Collaborators  Stephanie Tsai (cello)  Valerie Chen (cello)  Daniel Rothchild (cello)  Sophie Applbaum (cello)  Grant Riew (cello)  Sang-o Park (cello)  Jenn Chang (viola)  Ken Allen (viola)  Sam Zacharia (viola)  Mary Jane Rupert (harp)  Solon Gordon (piano)  Allen Yuan (piano)  Henry Burnam (piano)  Aristo Sham (piano)  Hanson Tam (piano)  Sitan Chen (piano)  Zachary Chin (piano)"
+  },
+  
+  {
+    "title": "Arrangements",
+    "url": "/posts/arrangements/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-12-22 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Youtube Channel(Page under construction: sheet music and other links to be added soon!)",
+    "content": "Youtube Channel(Page under construction: sheet music and other links to be added soon!)"
+  },
+  
+  {
+    "title": "Edna: Helping Developers Give Users Control Over Their Data in Web Applications",
+    "url": "/posts/edna/",
+    "categories": "publications, Research",
+    "tags": "privacy, security, databases",
+    "date": "2022-12-13 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Users today give web applications their data but have little control over how these applications store and protect this data.Giving users control is challenging for developers, as application funct...",
+    "content": "Users today give web applications their data but have little control over how these applications store and protect this data.Giving users control is challenging for developers, as application functionality sometimes requires the very same data that users want to protect.Edna is a library that lets web application developers give users flexible and correct control over their data’s exposure without breaking the application.Edna minimizes application changes and developer effort, and enables applications to securely hide user data and users to later restore it.Edna introduces abstractions for sealing, which selectively renders user data inaccessible via encryption, and revealing, which enables the owning user to restore their data to the application.We used Edna to add user data control to three real-world applications. We show that Edna provides flexible user data control, is simpler than alternative approaches, and achieves practical performance.Edna is under submission to OSDI 2023. We will open source Edna afterpublication; for now, please contact Lily for moreinformation!"
+  },
+  
+  {
+    "title": "Music for Food: Duos and Trios at the Lilypad",
+    "url": "/posts/mfflilypad/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-12-04 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sharing Notes: Pop-Up Music@MIT",
+    "url": "/posts/lobby7nov/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-11-04 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sharing Notes: Pop-Up Music@MIT",
+    "url": "/posts/lobby7oct/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-10-07 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sharing Notes: Pop-Up Music@MIT",
+    "url": "/posts/lobby7sept/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-09-16 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Words that cheer me up",
+    "url": "/posts/jokes/",
+    "categories": "inklings",
+    "tags": "",
+    "date": "2022-09-13 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "  “You’d better be prepared for the jump into hyperspace. It’s unpleasantly like being drunk.”          “What’s so unpleasant about being drunk?”“…ask a glass of water.”  – Douglas Adams, The Hitch...",
+    "content": "  “You’d better be prepared for the jump into hyperspace. It’s unpleasantly like being drunk.”          “What’s so unpleasant about being drunk?”“…ask a glass of water.”  – Douglas Adams, The Hitchhiker’s Guide to the GalaxyFrom my favorite TV show, Jeopardy  Q: To live until you are very very old or to widen one’s pupils.   A: What is dilate?  Q: The ant that bothers Siddhartha.   A: What is Budapest?  Q: A densely branched shrub, and the result of bloody conflict. (From the category “Landmark Supreme Court Cases”)   A: What is Bush v. Gore?Miscellaneous one-liners  Time flies like an arrow, fruit flies like a banana.  I tried to sharpen my pencil, but it was pointless.  I can count to 2 3.  I have a horse named Mayo. Mayo neighs.Names of clever companies  Remarkable  Line (on-line, off-line)  Zoom(ed-out)  Reddit (read-it)Just some cool words  absquatulate: to leave suddenly / sneak off (an oft-used word at parties)  acedia: spiritual or mental sloth  sthenic: of or having a high or excessive level of strength and energy"
+  },
+  
+  {
+    "title": "Porch Concert: September Sunday Soiree!",
+    "url": "/posts/soiree/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-09-11 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Music for Food: Fantastic Duos Benefiting Food for Free!",
+    "url": "/posts/mff-foodforfree/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-05-25 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "[Review] Concert raises money for Newton Food Pantry, Community Freedge",
+    "url": "/posts/mff-article/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-05-11 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Music for Food: Fantastic Duos for Newton Food Pantry!",
+    "url": "/posts/mff-newton/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-04-30 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "The Tsai Duo: New Year, New Duets",
+    "url": "/posts/tsaiduo2/",
+    "categories": "music",
+    "tags": "",
+    "date": "2022-01-16 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Schubert Fantasy @ MIT Chamber Music",
+    "url": "/posts/schubertfantasy/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-12-05 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "url": "/posts/sweeney/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-11-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Porch Concert: Sunday Soiree Celebration",
+    "url": "/posts/1017soiree/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-10-17 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Porch Concert: An Ourdoors Soiree",
+    "url": "/posts/1003soiree/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-10-03 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Apollo Ensemble Plays Beethoven's Eroica",
+    "url": "/posts/apollo-eroica/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-09-18 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Apollo Ensemble Plays Beethoven's Fifth",
+    "url": "/posts/apollo-beet5/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-07-24 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Privacy Heroes Need Data Disguises",
+    "url": "/posts/datadisguises/",
+    "categories": "publications",
+    "tags": "",
+    "date": "2021-06-01 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Providing privacy in complex, data-rich applications is hard. Deleting accounts, anonymizing an account’s contributions, and other privacy-related actions may require the traversal and transformati...",
+    "content": "Providing privacy in complex, data-rich applications is hard. Deleting accounts, anonymizing an account’s contributions, and other privacy-related actions may require the traversal and transformation of interwoven state in a relational database. Finding the affected data is already nontrivial, but privacy actions must additionally balance competing requirements, such as preserving data trails for legal reasons or allowing users to change their mind. We believe a systematic shared framework for specifying and implementing privacy transformations could simplify and empower applications. Our prototype, data disguising, supports fine-grained, nuanced, and useful policies that would be cumbersome to implement manually, including reversible transformations that can compose."
+  },
+  
+  {
+    "title": "Music to Mask Up By: Pop-up Music@MIT",
+    "url": "/posts/lobby72021/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-03-01 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "The Tsai Duo Presents: Duality through the Ages",
+    "url": "/posts/tsaiduo/",
+    "categories": "music",
+    "tags": "",
+    "date": "2021-02-21 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "A Kind of Person, or Kind-Of a Person?",
+    "url": "/posts/person/",
+    "categories": "inklings",
+    "tags": "",
+    "date": "2021-01-28 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "I close my eyes and imagine a world where I am only this: a violinist on a stage, where the music becomes my everything. I often play this way, temporarily blind to the reality that, after my final...",
+    "content": "I close my eyes and imagine a world where I am only this: a violinist on a stage, where the music becomes my everything. I often play this way, temporarily blind to the reality that, after my final note fades, I will spend the rest of tonight staring blankly at a blinking terminal cursor.Music has many parallels with computer science research, at least the classical chamber music that I play. You investigate the structure of the piece (or program); you interpret what it means; and you collaborate with others to come up with a deeper understanding. But in other ways, the two clash horribly. Rehearsals often proceed as a research advisor’s worst nightmare, full of wild gesticulations and feelings. We tell each other to “spin the sound together in the space between notes” to unite the resonance of our instruments. We wind up inexplicably in tune with each other, and not just literally: with our eyes closed, we know exactly when to place the next note and when to breathe. We have a sixth sense beyond logical understanding.I thought I had figured out which “real world”—music or computer science—I belonged in after graduating, when I made the “logical” choice to stick with computer science, certain that it was the right path. Although I loved music, I didn’t live music as so many of my friends do. For four years in undergrad, I had been blessed with opportunities to play with amazing musicians who were on the path to being professionals. Being undergraduates together put us on equal footing. But this transient equality rapidly disappeared once we graduated, each of us departing into our own piece of the world.Unfortunately, my certainty disappeared during my first week in lab. Almost immediately, I found myself lost. First in getting to lab, as I kept trapping myself in the Stata Center tower staircases. And then, once I triumphantly arrived, when my newfound colleagues greeted me with,     \"What kind of person are you?\"     \"Are you a distributed systems person?\"     \"A security person?\"     \"Oh, maybe a crypto person? Or verification person?\"My half-baked response (“Who says I’m a person??”) successfully avoided giving a real answer, as I realized, awkward and ashamed, that I did not have one. But the question stewed in my head, refusing to budge. My triumph gone, I soon felt more lost than I ever felt navigating the Stata Center.For the first year of my PhD, I continued to avoid this haunting question. Instead, I turned back to the part of myself I was certain about, wrapping myself in the comforting guise of “musician” instead of “clueless computer scientist.” And surprisingly, the world of music, while perhaps not the professional one, readily welcomed me back. My afternoons often found me texting friends asking if they wanted to sight-read Brahms and Beethoven in the practice rooms of Building 4; biking with thirty pounds of music and instruments over to Harvard to play chamber music with the Parker Quartet; and, for the first time in years, seriously picking up solo repertoire again to give a recital at MIT.I rediscovered the exhilarating freedom in conveying meaning through emotions, rather than carefully articulated, logical thought. I marveled at how easily I can speak without words. And for once, I didn’t need to explain why or how.I just had to play from the heart.It helped that MIT, Harvard, and unstructured research schedules encouraged my musical endeavors. I now have a minor in “violin performance” (a field defined just for my PhD), and MIT’s Emerson Fellowship enabled me to take lessons again, giving me the confidence to perform solo. I admit I still struggle with guilt over the hours I spend in the practice rooms and in concert halls: grad school’s notorious reputation of 24-hour work-days is not exactly unfounded. But it’s now clear that I need music, and I actually have the chance to keep it, if only I can resist the unhealthy urge to put work before everything else. Without music, I would only ever be part of myself; only kind-of a person.As I approach the end of my third year(!!) at MIT, the search to answer, “what kind of person am I?” is no less daunting. But I grow increasingly convinced that the question is the wrong one to ask, and to try to answer. It assumes we want to find certainty and be a single kind of person. That we need to neatly package our identity inside the well-defined box of our work.It’s inevitable (I hope) that I will one day properly answer, “What is your research on?” After all, to write a thesis, I’ll somehow have to settle on a topic. But research does not (and should not!) define a person. My uncertainty about research says nothing about my identity as a musician or a friend or anything else, and whether these identities are permanent or fleeting in nature makes them no less important.For better or worse, the uncertainty of graduate school may leave you finding yourself welcome in many worlds, yet confined to none.I’m sitting in front of my screen, with its cursor blinking relentlessly in… out… in… out…But moving it can wait.I stand up, pick up the violin by my side, and close my eyes.Written for the MIT graduate blog."
+  },
+  
+  {
+    "title": "The Breaking Point",
+    "url": "/posts/break/",
+    "categories": "inklings",
+    "tags": "",
+    "date": "2020-10-28 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "To live is to see breaking points everywhere:the fragility of our bodies;the tenuous barrier between tranquility and tearsthe abrupt stop when a car recklessly turns the corner;the pause when lungs...",
+    "content": "To live is to see breaking points everywhere:the fragility of our bodies;the tenuous barrier between tranquility and tearsthe abrupt stop when a car recklessly turns the corner;the pause when lungs exhaust their air;the punctuation that appears in our sentences to prevent them from running…and running…and running…and running…until the marathon in our minds saysNOMOREand our eyes glaze over with ennui and frustration and everything in between and we can only wish for theretobeaBREAK.Although breaks are everywhere, I struggled with them first in music. Whether playing the music of Bach or Shostakovich (and don’t even get me started on John Cage1), we were always told,  Feel the rest.  The silence is just as important as the notes.The silence could be a hiccup, a gasp, a breath held in prolonged anticipation. Without such breaks,music may as well be white noise. Breaks transition us from one phrase to the next, through onephase to another: broken fragments, broken words carry a beauty unreachable by infinite continuity.But I would always rush through them, eager to move on, too bored to wait.There is something thrilling in incessant motion that pushes past the breaking point, whether it be physically or emotionally. But in a time when the music of my life has been left on repeat, with each rendition increasingly meaningless, it feels as if I’m playing a piece that my fingers learned too well and my mind forgot. Daily life is a song that has lost its meaning, but which I cling to because I know it: it is stable. Each repeat only makes it more difficult to move on, more challenging to break away to start anew rather than start another.With only myself (and occasionally some research excitement or the weather) injecting randomness into these repetitive days, I’ve tried to take the advice of my music teachers and endure the transitions from one thing to the next with purpose. To once again seek the pain and rewards of breaking away. And just like rediscovering an overplayed song, I have grown to appreciate the life I was rushing through a bit more, and have found new ways to listen to it2.After all, if my life is the song I must play, I mean to play it well.            His most imfamous piece &#8617;              Like writing this: taking a break to make some kind of point about breaks using a lot of breaks. &#8617;      "
+  },
+  
+  {
+    "title": "CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches",
+    "url": "/posts/casa/",
+    "categories": "publications, Research",
+    "tags": "side channels, randomly mapped cache, security analysis",
+    "date": "2020-10-17 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Intel Hardware Security Academic Award FinalistIt is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These v...",
+    "content": "Intel Hardware Security Academic Award FinalistIt is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These vulnerabilities exploit the fact that the attacker can detect cache lines that were accessed by the victim. Therefore, architects have looked at different forms of randomization to thwart the attacker’s ability to communicate using the cache. The security analysis of those randomly mapped caches is based upon the increased difficulty for the attacker to determine the addresses that touch the same cache line that the victim has accessed.In this paper, we show that the analyses used to evaluate those schemes were incomplete in various ways. For example, they were incomplete because they only focused on one of the steps used in the exfiltration of secrets. Specifically, the step that the attacker uses to determine the set of addresses that can monitor the cache lines used by the transmitter address. Instead, we broaden the analysis of micro-architecture side channels by providing an overall view of the communication process. This allows us to identify the existence of other communication steps that can also affect the security of randomly mapped caches, but have been ignored by prior work.We design an analysis framework, CaSA, to comprehensively and quantitatively analyze the security of these randomly mapped caches. We comprehensively consider the end-to-end communication steps and study the statistical relationship between different steps. In addition, to perform quantitative analysis, we leverage the concepts from the field of telecommunications to formulate the security analysis into a statistical problem. We use CaSA to evaluate a wide range of attack strategies and cache configurations. Our result shows that the randomization mechanisms used in the state-of-the-art randomly mapped caches are insecure."
+  },
+  
+  {
+    "title": "Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers",
+    "url": "/posts/rowhammer/",
+    "categories": "publications",
+    "tags": "rowhammer",
+    "date": "2020-05-18 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable ...",
+    "content": "Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing conditions. To address this limitation, we develop an instruction sequence that leverages microarchitectural side-effects to “hammer” DRAM at a near-optimal rate on modern Intel Skylake and Cascade Lake platforms. We also design a DDR4 fault injector that can reverse engineer row adjacency for any DDR4 DIMM. When applied to our cloud provider’s DIMMs, we find that DRAM rows do not always follow a linear map."
+  },
+  
+  {
+    "title": "Brahms Piano Quartet No. 1 in G minor",
+    "url": "/posts/brahms-quartet/",
+    "categories": "music",
+    "tags": "",
+    "date": "2019-12-06 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Mendelssohn Piano Trio No. 2",
+    "url": "/posts/mendelssohn/",
+    "categories": "music",
+    "tags": "",
+    "date": "2019-05-05 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "enClosure: Group Communication via Encounter Closures",
+    "url": "/posts/enclosure/",
+    "categories": "publications, Research",
+    "tags": "privacy, security, iot",
+    "date": "2019-05-01 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "New applications enabled by personal smart devices and the Internet-of-Things (IoT) require communication in the context of periods of spatial co-location. Examples of this encounter-based communic...",
+    "content": "New applications enabled by personal smart devices and the Internet-of-Things (IoT) require communication in the context of periods of spatial co-location. Examples of this encounter-based communication (EbC) include social exchange among individuals who shared an experience, and interaction among personal and IoT devices that provide location-based services. Existing EbC systems are limited to communication among participants that share a direct encounter. This paper is inspired by two insights: (1) encounters also enable group communication among devices connected bypaths in the encounter graph that is contextual, spontaneous, secure, and does not require users to reveal identifying or linkable information; and(2) addressing communication partners using encounter closures subject to causal, spatial, and temporal constraints enables powerful new forms of group communication. We present the design of enClosure, a service providing group communication based on encounter closures for mobile and IoT applications, and a prototype implementation for Android and the Microsoft Embedded Social Cloud platform. Using real-world traces, we show that enClosure provides a privacy-preserving, secure platform for a wide range of group communication applications ranging from connecting attendees of a large event and virtual guest books to disseminating health risk warnings, lost-and-found, and tracing missing persons."
+  },
+  
+  {
+    "title": "Emerson Fellowship Concert: Lily Tsai and Allen Yuan",
+    "url": "/posts/emerson/",
+    "categories": "music",
+    "tags": "",
+    "date": "2019-04-12 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Tchaikovsky Piano Trio",
+    "url": "/posts/tchaik/",
+    "categories": "music",
+    "tags": "",
+    "date": "2018-12-09 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "A Revised and Verified Proof of the Scalable Commutativity Rule",
+    "url": "/posts/scrproof/",
+    "categories": "publications",
+    "tags": "formal verification, scalability, commuativity",
+    "date": "2018-09-18 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "This paper explains a flaw in the published proof of the Scalable Commutativity Rule (SCR), presents a revised and formally verified proof of the SCR in the Coq proof assistant, and discusses the i...",
+    "content": "This paper explains a flaw in the published proof of the Scalable Commutativity Rule (SCR), presents a revised and formally verified proof of the SCR in the Coq proof assistant, and discusses the insights and open questions raised from our experience proving the SCR."
+  },
+  
+  {
+    "title": "Dislocated",
+    "url": "/posts/dislocated/",
+    "categories": "inklings",
+    "tags": "",
+    "date": "2017-08-14 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Informal studies indicate that the pain of a dislocated elbow far exceeds that of a fractured or broken arm. After the shock wears off, every small motion sends flames through your entire body. And...",
+    "content": "Informal studies indicate that the pain of a dislocated elbow far exceeds that of a fractured or broken arm. After the shock wears off, every small motion sends flames through your entire body. And to make it worse, there’s the nauseating churn in your stomach when you see your arm, twisted at a gruesome angle.My own informal study this past January1, however, would beg to differ. I can’t deny that the physical pain was bad; in fact, it remains the most physically painful experience of my life. But to compare the pain against that the potential torment of losing the ability to play during my last semester at Harvard, or never being able to engage with music at the same level as before… these thoughts, not the physical pain, made me cry for the first time in months as I sat in the hospital and waited for a diagnosis. You really don’t know how much something matters to you until you lose it2.In some ways, starting 2017 with the worst injury of my life has set the tone for the year: this year is one in which I hope to I find what matters most to me and take the time understand how to really care of myself. Perhaps I’m being selfish, but I hope to emerge a better person and friend to others.Painful memories aside, I thought the topic (dislocation) would make a nice segway into publishing my first post from Germany! In Marburg, to be exact. I’m here taking an intensive beginner’s German course; it truly has been intense (6 hours of class a day), but I feel the effects already. While I doubt I’ll truly be fluent, I’ll know enough to (hopefully) survive when thrown out on my own into wild Saarbrucken in just 5 weeks. Moving here and adjusting has felt a little like a mental dislocation: that feeling when your mind can’t figure out where you are and tries to find something to latch back and hold it in place; that all you want is to just fit right back in and belong. I guess that, compared to most of the other (16) Fulbright students here, I don’t seem to be trying very hard to “Germanize” myself. I haven’t been taking trains to the neighboring towns, or trying out all the local foods… but what I’ve found to be amazing about being abroad are the long (though perhaps electronic) conversations with those back home, practicing violin in the music room (there’s only one, sadly), and taking long walks alone with my thoughts in the woods. Perhaps this is telling me that these things I do out of habit—violin, solitary hikes, reading, writing—are really part of who I am. That I would choose to do these things, and find a feeling of inner peace while doing them, perhaps indicates that it is when I do these things that I am in the right place (whatever that really means).I’ve been searching—during these long walks among devilish fungus, blackberry brambles, and shadowy trees—for what people mean when they say that a gap year is a year to “discover yourself.” I don’t yet see how traveling all over the country and seeing new sights is a way to discover yourself. In fact, if you do it enough, I think it clutters and blocks out most of what you might discover. Of course, learning about other cultures (if done correctly) is an amazing opportunity for growth. But perhaps in order to grow from external experiences, I first need to figure out the stuff inside of me. How to do this? I have no idea. I feel like I think more about how I should think and learn about myself than actually doing it (meta-self-reflection, you might call it). But it’s a first step, I think?            I dislocated my elbow while bouldering. &#8617;              I somewhat dislike cliches, yet I use them all the time.  &#8617;      "
+  },
+  
+  {
+    "title": "A Key Algorithm",
+    "url": "/posts/keys/",
+    "categories": "inklings",
+    "tags": "",
+    "date": "2017-08-04 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "I sit next to thousands of keys. Physical, shiny, golden keys, which unlock hundreds of rooms. My hands ache from the past hours of sorting these keys, meticulously hanging them on piercing hooks a...",
+    "content": "I sit next to thousands of keys. Physical, shiny, golden keys, which unlock hundreds of rooms. My hands ache from the past hours of sorting these keys, meticulously hanging them on piercing hooks and carefully selecting a handful at a time to slip into opaque bags.This was the most mind-numbing experience all summer, worse than staring at a blank wall; I could feel my brain cells shriveling up as they memorized 4-digit key codes and fruitlessly struggled to optimize a procedure that was inherently unscalable. (Reminds me a bit of my thesis, actually…)I was almost relieved when the office job I had accepted in return for summer housing turned into dealing with high schoolers (some snobbish and rude, and many forgetful but quite nice high schoolers). Other than the occasional interruption, I could spend my time trying to convince Coq that if I execute a function that produces a response… it produces a response1. Pretty straightforward, right? I do think a few high schoolers were rather frightened by the glazed, frustrated look I would give them when they asked me for a key and my brain was screaming at Coq.Even with these frustrations, discovering NPR podcasts on top of having time to do research, and the true care and generosity of Mario (the building manager) made the job quite enjoyable. The housing offer was incredible (even with dead, rotting rats in our garden-level room and the occasional flash flood that destroyed our rugs). That aside, this job really made me acknowledge the power of the brute force algorithm; and why it really, really would have been better to optimize a lot earlier; and also why sometimes it just isn’t worth it after a certain point.I think I’m often drawn to brute force because it’s simply the first thing that anyone thinks of. Get all the balls into the bin over there? Just carry them over! Change the names on this Excel spreadsheet? Time to sit down and start typing (I think copy-paste still counts as brute force). Brute force just seems so innate2.Sometimes optimizations become so natural that we don’t even realize what was the original seed. Like cooking, or following instructions; it’s so natural to parallelize (e.g., chop two carrots at once, cook the rice while chopping), but is it really natural? I remember my frustration in CS124 as I found that my brain just had a predilection for conjuring up brute force algorithms.And the problem with brute force is that, for the most part, it works. You just need enough power (or motivation), enough time, and usually very little skill. I brute forced Excel documents and key sorting, just as I brute forced the proof by typing the same tactics way too many times. The former was the fault of years of under-optimized processing, and the laziness of generations of student workers to care enough to spend days implementing better ways to sort keys and change names in exchange for cutting down on a few hours of work. (I probably could have written a program, but I think the computer was running Windows XP and I, too, was lazy). The latter was the fault of pure laziness: the fact that I knew it would work, and could I just spend another 20 seconds typing instead of writing an Ltac that would take potentially hours to perfect? 20 seconds, of course, multiplied by 100, or even 1000, is a lot. But I just couldn’t bring myself to optimize. There’s a fine balance between getting things done, getting things done quickly, getting things done “right”. I suppose the first is brute force; the second is optimization; and the third is ethical optimization. I guess I haven’t even satisfactorily done the first, but perhaps that’s because I haven’t mastered the others. We live through algorithms, so is such a mastery, more than anything else, worth discovering?            I am simplifying a bit (but kind of not really). See the code for the actual thing. &#8617;              I am not implying that the human race is innately brutal, although I am open to the possibility. &#8617;      "
+  },
+  
+  {
+    "title": "Jailed by FreeCell",
+    "url": "/posts/freecell/",
+    "categories": "inklings",
+    "tags": "",
+    "date": "2017-06-11 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Recently, I’ve noticed two things:  I’ve begun playing FreeCell again, but my emotional profile while playing is unrecognizable.  I always tell myself that it’s enough to “try my best”, but I can’t...",
+    "content": "Recently, I’ve noticed two things:  I’ve begun playing FreeCell again, but my emotional profile while playing is unrecognizable.  I always tell myself that it’s enough to “try my best”, but I can’t actually figure out what “trying my best” means.These two observations have been on my mind lately, and I believe they’re connected on a deeper level. This is my best (slightly rambling) explanation of the connection in my mind.FreeCell is a variant of Solitaire that looks something like this:Daniel, one of my best friends from Harvard, introduced me to the game over a year ago; soon, I was hooked. Not to just winning the game, but rather to lowering my best time, increasing my percentage of wins, and improving all those gameplay statistics that the app so helpfully provides. FreeCell soon captured my spare time, and the worst part of it was that I could not let myself lose. And when I did (which was rare, given the amount of time I put into staring at a game in advance before I made any moves) I felt an intense frustrated compulsion—sort of like that frustration when you think you’ve caught a bug in your code, and it turns out to not fix your problem, and you ask yourself “did I just spend time doing something pointless for the last hour?” but then continue doing it anyway.I’m sure that FreeCell did improve my mental strength; it definitely satisfied my competitive streak, and entertained me on the quarter-day flights to-and-from California. When school eventually took over last summer, I stopped playing. I tried to put my finger on exactly why (for this post)—but couldn’t find a plausible explanation for why my behavior suddently changed. So to try and find out, I returned to it this past week.Returning to the jail of FreeCell has made me realize the (terrifying?) changes in my perspective from nearly two years ago to now. Namely, I’m losing more than ever before.I’ve lost focus. I’ll be distracted by the chirps of birds outside my window and, regardless of the seconds ticking away on the FreeCell timer, pause just a moment to indulge in a pleasant fantasy in which a bird’s song becomes a song for me.I’ve lost motivation. While I admit that I still begin games with the intention to win or beat my best time, this intention mysteriously disappears after the first few moves. I haven’t quite parsed this phenomenon yet.I’ve lost games. Nowadays, I take the greedy approach to solving the puzzle; I believe my win ratio is probably 50% (as compared to 98% from two years ago), and my rank on the scoreboard is probably horrendous (I haven’t checked). But it’s fun! An exercise in how greedy heuristics often fail.I’ve lost the high and low waves of frustration and excitement. Perhaps it’s true that you need the intense lows to feel incredible highs. These have melted away into a nice fuzzy feeling when I win, and a ¯\\(ツ)/¯ when I don’t.And finally, I’ve lost the compulsion to always try my best.Focus, motivation, high rankings, trying your best… these are all traits prized in the classroom and probably by every employer. But for me, I happily lost these traits in my games of FreeCell and beyond. Being perfect is no longer who I am. It’s not like it ever was; I was only ever “trying my best.” As cliche as it sounds, when “trying your best” becomes striving for an impossible perfection, nothing is ever satisfactory. (Also, isn’t it funny that “as cliche as it sounds” has now become a cliche?)FreeCell has shown me that I now live more at my best, rather than strive to be best. I prize the momentary indulgences of curiosity and imagination, and the silence in my mind that has replaced the constant chaos of seeing a million mistakes and wanting to fix them. Ironically, it is this change in mindset that has led to not only some of the best and happiest times of my life, but also the best research I have ever done and the most meaningful music I have ever performed (I can’t say the same for my FreeCell games, but… ¯\\(ツ)/¯).I’ve been told so many times that “all that matters is trying your best”; I’ve gone through many an exam or project telling myself that all will turn out fine if only I try my best. But is there really a “best”? I’d argue that, at least for myself, I can’t see there being an end to “best”; there is always something more to improve, another second to trim, another goal to achieve or statistic to beat.And if I can never try my best… should I try to?"
+  },
+  
+  {
+    "title": "Rising Stars Concert",
+    "url": "/posts/risingstars/",
+    "categories": "music",
+    "tags": "",
+    "date": "2017-05-30 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Ending on a High Note: A Senior Recital",
+    "url": "/posts/senior-harvard/",
+    "categories": "music",
+    "tags": "",
+    "date": "2017-04-22 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Concurrent Algorithms in Transactional Data Structures",
+    "url": "/posts/senior-thesis/",
+    "categories": "publications, Research",
+    "tags": "software transactional memory, scalability, datatypes",
+    "date": "2017-04-01 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Harvard Senior Thesis, advised by Professor Eddie KohlerSoftware transactional memory (STM) simplifies the challenging, yet increasingly critical task of parallel programming. Using STM allows prog...",
+    "content": "Harvard Senior Thesis, advised by Professor Eddie KohlerSoftware transactional memory (STM) simplifies the challenging, yet increasingly critical task of parallel programming. Using STM allows programmers to reason about concurrent operations in terms of transactions—groups of operations guaranteed to have atomic effect. Our STM system, STO (Software Transactional Objects), outperforms previous STM systems, but its performance still falls short of that of the fastest concurrent programming techniques. This work aims to make STO as fast as these techniques, and, when this appears impossible, to characterize precisely why. We implement and benchmark the most performant concurrent programming algorithms for abstract datatypes within STO’s transactional framework. Our results indicate that certain concurrent datatype algorithms lose their scalability and performance in a transactional setting, while other algorithms successfully support transactions without incurring a crippling performance loss. We claim that this discrepancy arises because various concurrent algorithms have different levels of dependency on operation commutativity, and suffer different amounts of commutativity loss in a transactional setting. To support this claim, we pose an alternative operation interface that allows for greater operation commutativity, and, with this interface, re-implement a concurrent datatype whose performance is crippled in a transactional setting. This concurrent datatype is then able to retain its performance and scalability in a transactional setting. We conclude that examining both a datatype’s dependency on operation commutativity, and the loss of commutativity of a particular datatype interface in a transactional setting, is enough to determine whether a concurrent, non-transactional data structure will achieve high scalability and performance when integrated with STO."
+  },
+  
+  {
+    "title": "A Schubertian Sensation: Part II",
+    "url": "/posts/schubert/",
+    "categories": "music",
+    "tags": "",
+    "date": "2017-04-01 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "A Schubertian Sensation",
+    "url": "/posts/schubert1/",
+    "categories": "music",
+    "tags": "",
+    "date": "2016-11-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "A Trio of Brahms Trios",
+    "url": "/posts/brahms/",
+    "categories": "music",
+    "tags": "",
+    "date": "2016-05-06 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Type Aware Transactions for Faster Concurrent Code",
+    "url": "/posts/sto/",
+    "categories": "publications, Research",
+    "tags": "scalability, software transactional memory, datatypes",
+    "date": "2016-04-18 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A convent...",
+    "content": "It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite for STM applications and on our own prior work, the Silo high-performance in-memory database, observing large performance improvements in both systems."
+  },
+  
+  {
+    "title": "Beethoven Archduke Piano Trio",
+    "url": "/posts/archduke/",
+    "categories": "music",
+    "tags": "",
+    "date": "2015-12-19 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Stephanie's Junior Recital feat. Lily Tsai and Nathan Cheung!",
+    "url": "/posts/stephanie/",
+    "categories": "music",
+    "tags": "",
+    "date": "2014-05-25 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "National Youth Orchestra - Gergiev",
+    "url": "/posts/nyo/",
+    "categories": "music",
+    "tags": "",
+    "date": "2013-07-15 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Lily's Senior Violin Recital",
+    "url": "/posts/senior/",
+    "categories": "music",
+    "tags": "",
+    "date": "2013-06-01 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  }
+  
+]
+
