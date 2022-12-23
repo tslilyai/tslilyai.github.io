@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2022-12-23T11:29:42-05:00</updated>
+  <updated>2022-12-23T12:03:55-05:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/collaborators/" rel="alternate" type="text/html" title="People and Honors" />
     <published>2022-12-22T00:00:00-05:00</published>
   
-    <updated>2022-12-22T00:00:00-05:00</updated>
+    <updated>2022-12-23T11:30:18-05:00</updated>
   
     <id>http://localhost:4000/posts/collaborators/</id>
     <content src="http://localhost:4000/posts/collaborators/" />
@@ -65,7 +65,7 @@
     <link href="http://localhost:4000/posts/arrangements/" rel="alternate" type="text/html" title="Arrangements" />
     <published>2022-12-22T00:00:00-05:00</published>
   
-    <updated>2022-12-22T00:00:00-05:00</updated>
+    <updated>2022-12-23T11:30:18-05:00</updated>
   
     <id>http://localhost:4000/posts/arrangements/</id>
     <content src="http://localhost:4000/posts/arrangements/" />
@@ -102,7 +102,7 @@
     <link href="http://localhost:4000/posts/edna/" rel="alternate" type="text/html" title="Edna: Helping Developers Give Users Control Over Their Data in Web Applications" />
     <published>2022-12-13T00:00:00-05:00</published>
   
-    <updated>2022-12-13T00:00:00-05:00</updated>
+    <updated>2022-12-23T11:30:18-05:00</updated>
   
     <id>http://localhost:4000/posts/edna/</id>
     <content src="http://localhost:4000/posts/edna/" />
@@ -140,7 +140,7 @@ Edna is a library that lets web application developers give users flexible and c
     <link href="http://localhost:4000/posts/mfflilypad/" rel="alternate" type="text/html" title="Music for Food: Duos and Trios at the Lilypad" />
     <published>2022-12-04T00:00:00-05:00</published>
   
-    <updated>2022-12-04T00:00:00-05:00</updated>
+    <updated>2022-12-23T11:30:18-05:00</updated>
   
     <id>http://localhost:4000/posts/mfflilypad/</id>
     <content src="http://localhost:4000/posts/mfflilypad/" />
@@ -175,7 +175,7 @@ Edna is a library that lets web application developers give users flexible and c
     <link href="http://localhost:4000/posts/lobby7nov/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
     <published>2022-11-04T00:00:00-04:00</published>
   
-    <updated>2022-11-04T00:00:00-04:00</updated>
+    <updated>2022-12-23T11:30:18-05:00</updated>
   
     <id>http://localhost:4000/posts/lobby7nov/</id>
     <content src="http://localhost:4000/posts/lobby7nov/" />
