@@ -397,7 +397,7 @@
 -->
 
 <div id="topbar-wrapper">
-  <div id="topbar" class="container d-flex align-items-center justify-content-between h-100 pl-3 pr-3 pl-md-4 pr-md-4">
+  <div id="topbar" class="container d-flex align-items-center h-100 pl-3 pr-3 pl-md-4 pr-md-4">
     <span id="breadcrumb">
 
     
@@ -424,7 +424,14 @@
         
 
           
-            <span>Type Aware Transactions for Faster Concurrent Code</span>
+          
+          <span>
+              <a href="/publications">
+                  Publications
+                </a>
+          </span>
+          
+          <span>Type Aware Transactions for Faster Concurrent Code</span>
           
 
         
@@ -438,7 +445,7 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      Post
+      Publications
     </div>
 
     <!-- <i id="search-trigger" class="fas fa-search fa-fw"></i>
@@ -624,15 +631,13 @@
 <div class="post-content">
   <p>It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite for STM applications and on our own prior work, the Silo high-performance in-memory database, observing large performance improvements in both systems.</p>
 
-</div>
 
-  <div class="d-flex justify-content-between">
-    <span>
+  <div class="buttonlink">
         <!-- paper -->
         
 
         
-            <a href="">[paper]</a>
+            <a href="/papers/sto.pdf">paper</a>
         
 
         <!-- talk -->
@@ -640,10 +645,10 @@
 
         <!-- talk -->
         
-            <a href="">[code]</a>
+            <a href="https://github.com/nathanielherman/sto/">code</a>
         
-    </span>
     </div>
+</div>
 
 <div class="post-tail-wrapper text-muted">
 

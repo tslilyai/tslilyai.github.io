@@ -397,7 +397,7 @@
 -->
 
 <div id="topbar-wrapper">
-  <div id="topbar" class="container d-flex align-items-center justify-content-between h-100 pl-3 pr-3 pl-md-4 pr-md-4">
+  <div id="topbar" class="container d-flex align-items-center h-100 pl-3 pr-3 pl-md-4 pr-md-4">
     <span id="breadcrumb">
 
     
@@ -424,7 +424,14 @@
         
 
           
-            <span>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers</span>
+          
+          <span>
+              <a href="/publications">
+                  Publications
+                </a>
+          </span>
+          
+          <span>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers</span>
           
 
         
@@ -438,7 +445,7 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      Post
+      Publications
     </div>
 
     <!-- <i id="search-trigger" class="fas fa-search fa-fw"></i>
@@ -624,15 +631,13 @@
 <div class="post-content">
   <p>Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing conditions. To address this limitation, we develop an instruction sequence that leverages microarchitectural side-effects to “hammer” DRAM at a near-optimal rate on modern Intel Skylake and Cascade Lake platforms. We also design a DDR4 fault injector that can reverse engineer row adjacency for any DDR4 DIMM. When applied to our cloud provider’s DIMMs, we find that DRAM rows do not always follow a linear map.</p>
 
-</div>
 
-  <div class="d-flex justify-content-between">
-    <span>
+  <div class="buttonlink">
         <!-- paper -->
         
 
         
-            <a href="">[paper]</a>
+            <a href="https://www.microsoft.com/en-us/research/publication/are-we-susceptible-to-rowhammer-an-end-to-end-methodology-for-cloud-providers">paper</a>
         
 
         <!-- talk -->
@@ -640,8 +645,8 @@
 
         <!-- talk -->
         
-    </span>
     </div>
+</div>
 
 <div class="post-tail-wrapper text-muted">
 
