@@ -11,7 +11,7 @@ const resource = [
     '/404.html',
 
     
-        '/publications/',
+        '/research/',
     
         '/music/',
     
