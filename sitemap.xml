@@ -18,7 +18,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/sto/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2016-04-18T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/brahms/</loc>
@@ -38,7 +38,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/senior-thesis/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2017-04-01T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/senior-harvard/</loc>
@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/scrproof/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2018-09-18T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/tchaik/</loc>
@@ -74,7 +74,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/enclosure/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2019-05-01T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/mendelssohn/</loc>
@@ -86,11 +86,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/rowhammer/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2020-05-18T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/casa/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2020-10-17T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/break/</loc>
@@ -110,7 +110,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/datadisguises/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2021-06-01T01:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/apollo-beet5/</loc>
@@ -178,7 +178,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/edna/</loc>
-<lastmod>2022-12-23T11:30:18-05:00</lastmod>
+<lastmod>2022-12-13T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/arrangements/</loc>
@@ -190,15 +190,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
-<lastmod>2023-01-03T21:11:53-05:00</lastmod>
+<lastmod>2023-01-03T21:17:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/music/</loc>
-<lastmod>2023-01-03T21:11:53-05:00</lastmod>
+<lastmod>2023-01-03T21:17:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/inklings/</loc>
-<lastmod>2023-01-03T21:11:53-05:00</lastmod>
+<lastmod>2023-01-03T21:17:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -246,7 +246,7 @@
 <loc>http://localhost:4000/categories/music/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/categories/publications/</loc>
+<loc>http://localhost:4000/categories/research/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/research/</loc>

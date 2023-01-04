@@ -37,7 +37,7 @@
   {
     "title": "Edna: Helping Web Developers Give Users Control Over Their Data",
     "url": "/posts/edna/",
-    "categories": "publications, Research",
+    "categories": "research, Research",
     "tags": "privacy, security, databases",
     "date": "2022-12-13 00:00:00 -0500",
     
@@ -326,7 +326,7 @@
   {
     "title": "Privacy Heroes Need Data Disguises",
     "url": "/posts/datadisguises/",
-    "categories": "publications",
+    "categories": "research",
     "tags": "",
     "date": "2021-06-01 01:00:00 -0400",
     
@@ -411,7 +411,7 @@
   {
     "title": "CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches",
     "url": "/posts/casa/",
-    "categories": "publications, Research",
+    "categories": "research, Research",
     "tags": "side channels, randomly mapped cache, security analysis",
     "date": "2020-10-17 01:00:00 -0400",
     
@@ -428,7 +428,7 @@
   {
     "title": "Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers",
     "url": "/posts/rowhammer/",
-    "categories": "publications",
+    "categories": "research",
     "tags": "rowhammer",
     "date": "2020-05-18 01:00:00 -0400",
     
@@ -479,7 +479,7 @@
   {
     "title": "enClosure: Group Communication via Encounter Closures",
     "url": "/posts/enclosure/",
-    "categories": "publications, Research",
+    "categories": "research, Research",
     "tags": "privacy, security, iot",
     "date": "2019-05-01 01:00:00 -0400",
     
@@ -530,7 +530,7 @@
   {
     "title": "A Revised and Verified Proof of the Scalable Commutativity Rule",
     "url": "/posts/scrproof/",
-    "categories": "publications",
+    "categories": "research",
     "tags": "formal verification, scalability, commuativity",
     "date": "2018-09-18 01:00:00 -0400",
     
@@ -632,7 +632,7 @@
   {
     "title": "Concurrent Algorithms in Transactional Data Structures",
     "url": "/posts/senior-thesis/",
-    "categories": "publications, Research",
+    "categories": "research, Research",
     "tags": "software transactional memory, scalability, datatypes",
     "date": "2017-04-01 01:00:00 -0400",
     
@@ -717,7 +717,7 @@
   {
     "title": "Type Aware Transactions for Faster Concurrent Code",
     "url": "/posts/sto/",
-    "categories": "publications, Research",
+    "categories": "research, Research",
     "tags": "scalability, software transactional memory, datatypes",
     "date": "2016-04-18 01:00:00 -0400",
     
