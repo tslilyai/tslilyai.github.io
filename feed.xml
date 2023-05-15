@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2023-05-15T15:34:42-04:00</updated>
+  <updated>2023-05-15T17:58:43-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -48,6 +48,54 @@
 
       
 
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Words that cheer me up</title>
+    <link href="http://localhost:4000/posts/jokes/" rel="alternate" type="text/html" title="Words that cheer me up" />
+    <published>2023-05-13T00:00:00-04:00</published>
+  
+    <updated>2022-12-23T18:55:31-05:00</updated>
+  
+    <id>http://localhost:4000/posts/jokes/</id>
+    <content src="http://localhost:4000/posts/jokes/" />
+    <author>
+      <name>tslilyai</name>
+    </author>
+
+  
+    
+    <category term="inklings" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+  “You’d better be prepared for the jump into hyperspace. It’s unpleasantly like being drunk.”
+          “What’s so unpleasant about being drunk?”
+“…ask a glass of water.”
+
+  – Douglas Adams, The Hitchhiker’s Guide to the Galaxy
+
+
+From my favorite TV show, Jeopardy
+
+  Q: To live until you are very very old or to widen one’s pupils.
+   A: What is dilate?
+  Q: The ant that bothers Siddhartha.
+ ...
     </summary>
   
 
@@ -159,41 +207,6 @@
   Artistic Director, River Charles Ensemble at Harvard (2014-16)
   Concertmistress, National Youth Orchestra of the USA (2013)
   1st Prize National Winner, American String Tea...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Arrangements</title>
-    <link href="http://localhost:4000/posts/arrangements/" rel="alternate" type="text/html" title="Arrangements" />
-    <published>2022-12-22T00:00:00-05:00</published>
-  
-    <updated>2022-12-24T21:40:29-05:00</updated>
-  
-    <id>http://localhost:4000/posts/arrangements/</id>
-    <content src="http://localhost:4000/posts/arrangements/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
     </summary>
   
 
