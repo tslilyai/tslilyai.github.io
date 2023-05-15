@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2023-01-09T18:26:21-05:00</updated>
+  <updated>2023-05-15T15:34:05-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,111 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Porch Concert: IT</title>
+    <link href="http://localhost:4000/posts/soireemay21/" rel="alternate" type="text/html" title="Porch Concert: IT" />
+    <published>2023-05-21T00:00:00-04:00</published>
+  
+    <updated>2023-05-21T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/soireemay21/</id>
+    <content src="http://localhost:4000/posts/soireemay21/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>King's Chapel Tuesday Recital: Mozart and Martinu</title>
+    <link href="http://localhost:4000/posts/chapel/" rel="alternate" type="text/html" title="King's Chapel Tuesday Recital: Mozart and Martinu" />
+    <published>2023-04-18T00:00:00-04:00</published>
+  
+    <updated>2023-04-18T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/chapel/</id>
+    <content src="http://localhost:4000/posts/chapel/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Saturday Soiree: Bach, Brahms, and Beethoven</title>
+    <link href="http://localhost:4000/posts/soireemarch2023/" rel="alternate" type="text/html" title="Saturday Soiree: Bach, Brahms, and Beethoven" />
+    <published>2023-03-11T00:00:00-05:00</published>
+  
+    <updated>2023-03-11T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/soireemarch2023/</id>
+    <content src="http://localhost:4000/posts/soireemarch2023/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -69,114 +174,6 @@
   
     <id>http://localhost:4000/posts/arrangements/</id>
     <content src="http://localhost:4000/posts/arrangements/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Edna: Helping Web Developers Give Users Control Over Their Data</title>
-    <link href="http://localhost:4000/posts/edna/" rel="alternate" type="text/html" title="Edna: Helping Web Developers Give Users Control Over Their Data" />
-    <published>2022-12-13T00:00:00-05:00</published>
-  
-    <updated>2022-12-13T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/edna/</id>
-    <content src="http://localhost:4000/posts/edna/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="research" />
-    
-    <category term="Research" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Users today give web applications their data but have little control over how these applications store and protect this data.
-Giving users control is challenging for developers, as application functionality sometimes requires the very same data that users want to protect.
-Edna is a library that lets web application developers give users flexible and correct control over their data’s exposure wi...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Music for Food: Duos and Trios at the Lilypad</title>
-    <link href="http://localhost:4000/posts/mfflilypad/" rel="alternate" type="text/html" title="Music for Food: Duos and Trios at the Lilypad" />
-    <published>2022-12-04T00:00:00-05:00</published>
-  
-    <updated>2022-12-23T11:30:18-05:00</updated>
-  
-    <id>http://localhost:4000/posts/mfflilypad/</id>
-    <content src="http://localhost:4000/posts/mfflilypad/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Sharing Notes: Pop-Up Music@MIT</title>
-    <link href="http://localhost:4000/posts/lobby7nov/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
-    <published>2022-11-04T00:00:00-04:00</published>
-  
-    <updated>2022-12-23T11:30:18-05:00</updated>
-  
-    <id>http://localhost:4000/posts/lobby7nov/</id>
-    <content src="http://localhost:4000/posts/lobby7nov/" />
     <author>
       <name>Lillian Tsai</name>
     </author>

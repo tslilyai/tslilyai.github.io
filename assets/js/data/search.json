@@ -1,6 +1,57 @@
 [
   
   {
+    "title": "Porch Concert: IT",
+    "url": "/posts/soireemay21/",
+    "categories": "music",
+    "tags": "",
+    "date": "2023-05-21 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "King's Chapel Tuesday Recital: Mozart and Martinu",
+    "url": "/posts/chapel/",
+    "categories": "music",
+    "tags": "",
+    "date": "2023-04-18 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Saturday Soiree: Bach, Brahms, and Beethoven",
+    "url": "/posts/soireemarch2023/",
+    "categories": "music",
+    "tags": "",
+    "date": "2023-03-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
     "title": "People and Honors",
     "url": "/posts/collaborators/",
     "categories": "music",
@@ -47,8 +98,8 @@
 
 
     
-    "snippet": "Users today give web applications their data but have little control over how these applications store and protect this data.Giving users control is challenging for developers, as application funct...",
-    "content": "Users today give web applications their data but have little control over how these applications store and protect this data.Giving users control is challenging for developers, as application functionality sometimes requires the very same data that users want to protect.Edna is a library that lets web application developers give users flexible and correct control over their data’s exposure without breaking the application.Edna minimizes application changes and developer effort, and enables applications to securely hide user data and users to later restore it.Edna introduces abstractions for sealing, which selectively renders user data inaccessible via encryption, and revealing, which enables the owning user to restore their data to the application.We used Edna to add user data control to three real-world applications. We show that Edna provides flexible user data control, is simpler than alternative approaches, and achieves practical performance."
+    "snippet": "Edna is a system for web developers to allow users to: remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public pr...",
+    "content": "Edna is a system for web developers to allow users to: remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features through disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.We used Edna to add disguising and revealing transformations to three real-world applications. Experiments show that Edna requires low developer effort, is simpler than alternative approaches, and has practical performance."
   },
   
   {
