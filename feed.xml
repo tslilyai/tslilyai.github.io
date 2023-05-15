@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2023-05-15T15:34:05-04:00</updated>
+  <updated>2023-05-15T15:34:42-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Porch Concert: IT</title>
-    <link href="http://localhost:4000/posts/soireemay21/" rel="alternate" type="text/html" title="Porch Concert: IT" />
+    <title>Porch Concert: Sunday Spring Soiree</title>
+    <link href="http://localhost:4000/posts/soireemay21/" rel="alternate" type="text/html" title="Porch Concert: Sunday Spring Soiree" />
     <published>2023-05-21T00:00:00-04:00</published>
   
     <updated>2023-05-21T00:00:00-04:00</updated>
