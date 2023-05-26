@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2023-05-15T17:58:43-04:00</updated>
+  <updated>2023-05-26T16:33:55-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -59,7 +59,7 @@
     <link href="http://localhost:4000/posts/jokes/" rel="alternate" type="text/html" title="Words that cheer me up" />
     <published>2023-05-13T00:00:00-04:00</published>
   
-    <updated>2022-12-23T18:55:31-05:00</updated>
+    <updated>2023-05-15T17:59:18-04:00</updated>
   
     <id>http://localhost:4000/posts/jokes/</id>
     <content src="http://localhost:4000/posts/jokes/" />
@@ -96,6 +96,41 @@ From my favorite TV show, Jeopardy
    A: What is dilate?
   Q: The ant that bothers Siddhartha.
  ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Brattle Street Chamber Players 25th Anniversary Concert</title>
+    <link href="http://localhost:4000/posts/brattle/" rel="alternate" type="text/html" title="Brattle Street Chamber Players 25th Anniversary Concert" />
+    <published>2023-04-23T00:00:00-04:00</published>
+  
+    <updated>2023-04-23T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/brattle/</id>
+    <content src="http://localhost:4000/posts/brattle/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
     </summary>
   
 
@@ -166,47 +201,6 @@ From my favorite TV show, Jeopardy
 
       
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>People and Honors</title>
-    <link href="http://localhost:4000/posts/collaborators/" rel="alternate" type="text/html" title="People and Honors" />
-    <published>2022-12-22T00:00:00-05:00</published>
-  
-    <updated>2022-12-23T11:30:18-05:00</updated>
-  
-    <id>http://localhost:4000/posts/collaborators/</id>
-    <content src="http://localhost:4000/posts/collaborators/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Honors
-
-  Concertmistress, Apollo Ensemble (2021)
-  Emerson Fellowship, MIT (2018-2019)
-  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)
-  Artistic Director, River Charles Ensemble at Harvard (2014-16)
-  Concertmistress, National Youth Orchestra of the USA (2013)
-  1st Prize National Winner, American String Tea...
     </summary>
   
 
