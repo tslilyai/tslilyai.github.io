@@ -39,19 +39,19 @@
 <meta property="og:title" content="Edna: Disguising and Revealing User Data in Web Applications" />
 <meta name="author" content="Lillian Tsai" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Edna is a system for web developers to allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features through disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state." />
-<meta property="og:description" content="Edna is a system for web developers to allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features through disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state." />
+<meta name="description" content="Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state." />
+<meta property="og:description" content="Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state." />
 <link rel="canonical" href="http://localhost:4000/posts/edna/" />
 <meta property="og:url" content="http://localhost:4000/posts/edna/" />
 <meta property="og:site_name" content="Lillian (Lily) Tsai" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-12-13T00:00:00-05:00" />
+<meta property="article:published_time" content="2023-10-06T01:00:00-04:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Edna: Disguising and Revealing User Data in Web Applications" />
 <meta name="twitter:site" content="@tslilyai" />
 <meta name="twitter:creator" content="@tslilyai" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Lillian Tsai"},"dateModified":"2023-07-18T19:00:00-04:00","datePublished":"2022-12-13T00:00:00-05:00","description":"Edna is a system for web developers to allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features through disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.","headline":"Edna: Disguising and Revealing User Data in Web Applications","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/edna/"},"url":"http://localhost:4000/posts/edna/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Lillian Tsai"},"dateModified":"2023-10-06T01:00:00-04:00","datePublished":"2023-10-06T01:00:00-04:00","description":"Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.","headline":"Edna: Disguising and Revealing User Data in Web Applications","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/edna/"},"url":"http://localhost:4000/posts/edna/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -569,10 +569,10 @@
 
 
 <em class=""
-    data-ts="1670907600"
+    data-ts="1696568400"
     data-df="ll"
     data-toggle="tooltip" data-placement="bottom">
-  Dec 13, 2022
+  Oct  6, 2023
 </em>
 
     </span>
@@ -621,9 +621,9 @@
 </div> <!-- .post-meta -->
 
 <div class="post-content">
-  <p>Edna is a system for web developers to allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features through <em>disguising</em> and <em>revealing</em> transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.</p>
+  <p>Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via <em>disguising</em> and <em>revealing</em> transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.</p>
 
-<p>We used Edna to add disguising and revealing transformations to three real-world applications. Experiments show that Edna requires low developer effort, is simpler than alternative approaches, and has practical performance.</p>
+<p>Experiments with Edna that add disguising and revealing transformations to three real-world applications show that Edna enables new privacy features in existing applications with low developer effort, is simpler than alternative approaches, and adds limited overhead to applications.</p>
 
 
   <div class="buttonlink">
@@ -631,11 +631,15 @@
         
 
         
+            <a href="/papers/edna.pdf">paper</a>
+        
 
         <!-- talk -->
         
 
         <!-- talk -->
+        
+            <a href="https://github.com/tslilyai/edna/tree/main">code</a>
         
     </div>
 </div>

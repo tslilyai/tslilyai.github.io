@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Edna: Disguising and Revealing User Data in Web Applications",
+    "url": "/posts/edna/",
+    "categories": "research, Research",
+    "tags": "privacy, security, databases",
+    "date": "2023-10-06 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from publ...",
+    "content": "Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.Experiments with Edna that add disguising and revealing transformations to three real-world applications show that Edna enables new privacy features in existing applications with low developer effort, is simpler than alternative approaches, and adds limited overhead to applications."
+  },
+  
+  {
     "title": "Porch Concert: Sunday Spring Soiree",
     "url": "/posts/soireemay21/",
     "categories": "music",
@@ -117,23 +134,6 @@
     
     "snippet": "",
     "content": ""
-  },
-  
-  {
-    "title": "Edna: Disguising and Revealing User Data in Web Applications",
-    "url": "/posts/edna/",
-    "categories": "research, Research",
-    "tags": "privacy, security, databases",
-    "date": "2022-12-13 00:00:00 -0500",
-    
-
-
-
-
-
-    
-    "snippet": "Edna is a system for web developers to allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public pro...",
-    "content": "Edna is a system for web developers to allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features through disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.We used Edna to add disguising and revealing transformations to three real-world applications. Experiments show that Edna requires low developer effort, is simpler than alternative approaches, and has practical performance."
   },
   
   {
