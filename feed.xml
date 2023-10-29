@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2023-10-29T06:43:11-04:00</updated>
+  <updated>2023-10-29T06:50:47-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,111 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Sharing Notes: Pop-Up Music@MIT</title>
+    <link href="http://localhost:4000/posts/lobby7oct18-23/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
+    <published>2023-10-18T00:00:00-04:00</published>
+  
+    <updated>2023-10-18T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/lobby7oct18-23/</id>
+    <content src="http://localhost:4000/posts/lobby7oct18-23/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Sharing Notes: Pop-Up Music@MIT</title>
+    <link href="http://localhost:4000/posts/lobby7oct23/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
+    <published>2023-10-16T00:00:00-04:00</published>
+  
+    <updated>2023-10-16T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/lobby7oct23/</id>
+    <content src="http://localhost:4000/posts/lobby7oct23/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Porch Concert: Mozart in Autumn</title>
+    <link href="http://localhost:4000/posts/soireeoct23/" rel="alternate" type="text/html" title="Porch Concert: Mozart in Autumn" />
+    <published>2023-10-15T00:00:00-04:00</published>
+  
+    <updated>2023-10-15T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/soireeoct23/</id>
+    <content src="http://localhost:4000/posts/soireeoct23/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -64,124 +169,6 @@
   
     <id>http://localhost:4000/posts/duos/</id>
     <content src="http://localhost:4000/posts/duos/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Porch Concert: Sunday Spring Soiree</title>
-    <link href="http://localhost:4000/posts/soireemay21/" rel="alternate" type="text/html" title="Porch Concert: Sunday Spring Soiree" />
-    <published>2023-05-21T00:00:00-04:00</published>
-  
-    <updated>2023-05-21T00:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/soireemay21/</id>
-    <content src="http://localhost:4000/posts/soireemay21/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Words that cheer me up</title>
-    <link href="http://localhost:4000/posts/jokes/" rel="alternate" type="text/html" title="Words that cheer me up" />
-    <published>2023-05-13T00:00:00-04:00</published>
-  
-    <updated>2023-05-15T17:59:18-04:00</updated>
-  
-    <id>http://localhost:4000/posts/jokes/</id>
-    <content src="http://localhost:4000/posts/jokes/" />
-    <author>
-      <name>tslilyai</name>
-    </author>
-
-  
-    
-    <category term="inklings" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-  “You’d better be prepared for the jump into hyperspace. It’s unpleasantly like being drunk.”
-          “What’s so unpleasant about being drunk?”
-“…ask a glass of water.”
-
-  – Douglas Adams, The Hitchhiker’s Guide to the Galaxy
-
-
-From my favorite TV show, Jeopardy
-
-  Q: To live until you are very very old or to widen one’s pupils.
-   A: What is dilate?
-  Q: The ant that bothers Siddhartha.
- ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Brattle Street Chamber Players 25th Anniversary Concert</title>
-    <link href="http://localhost:4000/posts/brattle/" rel="alternate" type="text/html" title="Brattle Street Chamber Players 25th Anniversary Concert" />
-    <published>2023-04-23T00:00:00-04:00</published>
-  
-    <updated>2023-04-23T00:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/brattle/</id>
-    <content src="http://localhost:4000/posts/brattle/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
