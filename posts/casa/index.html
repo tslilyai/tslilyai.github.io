@@ -39,8 +39,8 @@
 <meta property="og:title" content="CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches" />
 <meta name="author" content="Thomas Bourgeat" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Intel Hardware Security Academic Award Finalist" />
-<meta property="og:description" content="Intel Hardware Security Academic Award Finalist" />
+<meta name="description" content="It is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These vulnerabilities exploit the fact that the attacker can detect cache lines that were accessed by the victim. Therefore, architects have looked at different forms of randomization to thwart the attacker’s ability to communicate using the cache. The security analysis of those randomly mapped caches is based upon the increased difficulty for the attacker to determine the addresses that touch the same cache line that the victim has accessed." />
+<meta property="og:description" content="It is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These vulnerabilities exploit the fact that the attacker can detect cache lines that were accessed by the victim. Therefore, architects have looked at different forms of randomization to thwart the attacker’s ability to communicate using the cache. The security analysis of those randomly mapped caches is based upon the increased difficulty for the attacker to determine the addresses that touch the same cache line that the victim has accessed." />
 <link rel="canonical" href="http://localhost:4000/posts/casa/" />
 <meta property="og:url" content="http://localhost:4000/posts/casa/" />
 <meta property="og:site_name" content="Lillian (Lily) Tsai" />
@@ -51,7 +51,7 @@
 <meta name="twitter:site" content="@tslilyai" />
 <meta name="twitter:creator" content="@Thomas Bourgeat" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Thomas Bourgeat"},"dateModified":"2020-10-17T01:00:00-04:00","datePublished":"2020-10-17T01:00:00-04:00","description":"Intel Hardware Security Academic Award Finalist","headline":"CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/casa/"},"url":"http://localhost:4000/posts/casa/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Thomas Bourgeat"},"dateModified":"2020-10-17T01:00:00-04:00","datePublished":"2020-10-17T01:00:00-04:00","description":"It is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These vulnerabilities exploit the fact that the attacker can detect cache lines that were accessed by the victim. Therefore, architects have looked at different forms of randomization to thwart the attacker’s ability to communicate using the cache. The security analysis of those randomly mapped caches is based upon the increased difficulty for the attacker to determine the addresses that touch the same cache line that the victim has accessed.","headline":"CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/casa/"},"url":"http://localhost:4000/posts/casa/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -618,21 +618,29 @@
             -->
         
     </span>
-    </div>
 
+    </div>
   </div> <!-- .d-flex -->
 
 </div> <!-- .post-meta -->
 
 <div class="post-content">
-  <p><em>Intel Hardware Security Academic Award Finalist</em></p>
 
-<p>It is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These vulnerabilities exploit the fact that the attacker can detect cache lines that were accessed by the victim. Therefore, architects have looked at different forms of randomization to thwart the attacker’s ability to communicate using the cache. The security analysis of those randomly mapped caches is based upon the increased difficulty for the attacker to determine the addresses that touch the same cache line that the victim has accessed.</p>
+    
+    <span><em>MICRO 2020 
+      
+      (Intel Hardware Security Academic Award Finalist)
+      
+    </em></span>
+    
+
+    <p></p>
+
+  <p>It is well known that there are micro-architectural vulnerabilities that enable an attacker to use caches to exfiltrate secrets from a victim. These vulnerabilities exploit the fact that the attacker can detect cache lines that were accessed by the victim. Therefore, architects have looked at different forms of randomization to thwart the attacker’s ability to communicate using the cache. The security analysis of those randomly mapped caches is based upon the increased difficulty for the attacker to determine the addresses that touch the same cache line that the victim has accessed.</p>
 
 <p>In this paper, we show that the analyses used to evaluate those schemes were incomplete in various ways. For example, they were incomplete because they only focused on one of the steps used in the exfiltration of secrets. Specifically, the step that the attacker uses to determine the set of addresses that can monitor the cache lines used by the transmitter address. Instead, we broaden the analysis of micro-architecture side channels by providing an overall view of the communication process. This allows us to identify the existence of other communication steps that can also affect the security of randomly mapped caches, but have been ignored by prior work.</p>
 
 <p>We design an analysis framework, CaSA, to comprehensively and quantitatively analyze the security of these randomly mapped caches. We comprehensively consider the end-to-end communication steps and study the statistical relationship between different steps. In addition, to perform quantitative analysis, we leverage the concepts from the field of telecommunications to formulate the security analysis into a statistical problem. We use CaSA to evaluate a wide range of attack strategies and cache configurations. Our result shows that the randomization mechanisms used in the state-of-the-art randomly mapped caches are insecure.</p>
-
 
   <div class="buttonlink">
         <!-- paper -->
