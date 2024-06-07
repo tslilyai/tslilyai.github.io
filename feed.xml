@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2024-02-27T13:12:53-05:00</updated>
+  <updated>2024-06-07T00:35:31-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Sharing Notes: Pop-Up Music@MIT</title>
-    <link href="http://localhost:4000/posts/lobby7oct18-23/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
-    <published>2023-10-18T00:00:00-04:00</published>
+    <link href="http://localhost:4000/posts/lobby7last/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
+    <published>2024-05-31T00:00:00-04:00</published>
   
-    <updated>2023-10-18T00:00:00-04:00</updated>
+    <updated>2024-05-31T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/lobby7oct18-23/</id>
-    <content src="http://localhost:4000/posts/lobby7oct18-23/" />
+    <id>http://localhost:4000/posts/lobby7last/</id>
+    <content src="http://localhost:4000/posts/lobby7last/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -55,14 +55,14 @@
 
   
   <entry>
-    <title>Sharing Notes: Pop-Up Music@MIT</title>
-    <link href="http://localhost:4000/posts/lobby7oct23/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
-    <published>2023-10-16T00:00:00-04:00</published>
+    <title>Music for Food: A Fareward Finale at the Lilypad</title>
+    <link href="http://localhost:4000/posts/finalmfflilypad/" rel="alternate" type="text/html" title="Music for Food: A Fareward Finale at the Lilypad" />
+    <published>2024-05-28T00:00:00-04:00</published>
   
-    <updated>2023-10-16T00:00:00-04:00</updated>
+    <updated>2024-05-28T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/lobby7oct23/</id>
-    <content src="http://localhost:4000/posts/lobby7oct23/" />
+    <id>http://localhost:4000/posts/finalmfflilypad/</id>
+    <content src="http://localhost:4000/posts/finalmfflilypad/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -90,49 +90,14 @@
 
   
   <entry>
-    <title>Porch Concert: Mozart in Autumn</title>
-    <link href="http://localhost:4000/posts/soireeoct23/" rel="alternate" type="text/html" title="Porch Concert: Mozart in Autumn" />
-    <published>2023-10-15T00:00:00-04:00</published>
+    <title>Flexible Privacy via Disguising and Revealing</title>
+    <link href="http://localhost:4000/posts/thesis/" rel="alternate" type="text/html" title="Flexible Privacy via Disguising and Revealing" />
+    <published>2024-05-17T01:00:00-04:00</published>
   
-    <updated>2023-10-15T00:00:00-04:00</updated>
+    <updated>2024-05-17T01:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/soireeoct23/</id>
-    <content src="http://localhost:4000/posts/soireeoct23/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Edna: Disguising and Revealing User Data in Web Applications</title>
-    <link href="http://localhost:4000/posts/edna/" rel="alternate" type="text/html" title="Edna: Disguising and Revealing User Data in Web Applications" />
-    <published>2023-10-06T01:00:00-04:00</published>
-  
-    <updated>2023-10-31T14:25:37-04:00</updated>
-  
-    <id>http://localhost:4000/posts/edna/</id>
-    <content src="http://localhost:4000/posts/edna/" />
+    <id>http://localhost:4000/posts/thesis/</id>
+    <content src="http://localhost:4000/posts/thesis/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -161,14 +126,49 @@
 
   
   <entry>
-    <title>Summertime Classics with the Tsai Duo</title>
-    <link href="http://localhost:4000/posts/duos/" rel="alternate" type="text/html" title="Summertime Classics with the Tsai Duo" />
-    <published>2023-08-19T00:00:00-04:00</published>
+    <title>Sharing Notes: Pop-Up Music@MIT</title>
+    <link href="http://localhost:4000/posts/lobby7may2024/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
+    <published>2024-05-08T00:00:00-04:00</published>
   
-    <updated>2023-08-19T00:00:00-04:00</updated>
+    <updated>2024-05-08T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/duos/</id>
-    <content src="http://localhost:4000/posts/duos/" />
+    <id>http://localhost:4000/posts/lobby7may2024/</id>
+    <content src="http://localhost:4000/posts/lobby7may2024/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Sunday Soiree: Prokofiev Sonata No. 1</title>
+    <link href="http://localhost:4000/posts/soireeprok/" rel="alternate" type="text/html" title="Sunday Soiree: Prokofiev Sonata No. 1" />
+    <published>2024-04-28T00:00:00-04:00</published>
+  
+    <updated>2024-04-28T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/soireeprok/</id>
+    <content src="http://localhost:4000/posts/soireeprok/" />
     <author>
       <name>Lillian Tsai</name>
     </author>

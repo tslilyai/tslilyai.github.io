@@ -2,6 +2,142 @@
   
   {
     "title": "Sharing Notes: Pop-Up Music@MIT",
+    "url": "/posts/lobby7last/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-05-31 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Music for Food: A Fareward Finale at the Lilypad",
+    "url": "/posts/finalmfflilypad/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-05-28 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Flexible Privacy via Disguising and Revealing",
+    "url": "/posts/thesis/",
+    "categories": "research, Research",
+    "tags": "privacy, security, databases",
+    "date": "2024-05-17 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from publ...",
+    "content": "Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via disguising and revealing transformations. Disguising selectively renders user data inaccessible via encryption, and revealing enables the user to restore their data to the application. Edna’s techniques allow transformations to compose in any order, e.g., deleting a previously anonymized user’s account, or restoring an account back to an anonymized state.Experiments with Edna that add disguising and revealing transformations to three real-world applications show that Edna enables new privacy features in existing applications with low developer effort, is simpler than alternative approaches, and adds limited overhead to applications."
+  },
+  
+  {
+    "title": "Sharing Notes: Pop-Up Music@MIT",
+    "url": "/posts/lobby7may2024/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-05-08 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sunday Soiree: Prokofiev Sonata No. 1",
+    "url": "/posts/soireeprok/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-04-28 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "King's Chapel Tuesday Recital: Violin and Cello Duos",
+    "url": "/posts/chapelduos/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-04-09 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sharing Notes: Pop-Up Music@MIT",
+    "url": "/posts/lobby7march2024/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-03-03 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "The Nightingale’s Sonata Program with Thomas Wolf",
+    "url": "/posts/franck/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-03-03 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Sharing Notes: Pop-Up Music@MIT",
     "url": "/posts/lobby7oct18-23/",
     "categories": "music",
     "tags": "",
