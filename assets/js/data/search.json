@@ -1,23 +1,6 @@
 [
   
   {
-    "title": "Sunday Soiree: Beethoven Sonata No. 10",
-    "url": "/posts/soireebeet10/",
-    "categories": "music",
-    "tags": "",
-    "date": "2025-10-20 00:00:00 -0400",
-    
-
-
-
-
-
-    
-    "snippet": "",
-    "content": ""
-  },
-  
-  {
     "title": "EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation",
     "url": "/posts/icc/",
     "categories": "research, Research",
@@ -32,6 +15,40 @@
     
     "snippet": "Large language models (LLMs) have excelled in various applications, yet servingthem at scale is challenging due to their substantial resource demands and highlatency. Our real-world studies reveal ...",
     "content": "Large language models (LLMs) have excelled in various applications, yet servingthem at scale is challenging due to their substantial resource demands and highlatency. Our real-world studies reveal that over 60% of user requests to LLMshave semantically similar counterparts, suggesting the potential for knowledgesharing among requests. However, naively caching and reusing past responsesleads to large quality degradation.  In this paper, we introduce EchoLM, anin-context caching system that leverages historical requests as examples toguide response generation, enabling selective offloading of requests to moreefficient LLMs. However, enabling this real-time knowledge transfer leads tointricate tradeoffs between response quality, latency, and system throughput atscale. For a new request, EchoLM identifies similar, high-utility examples andefficiently prepends them to the input for better response.  At scale, EchoLMadaptively routes requests to LLMs of varying capabilities, accounting forresponse quality and serving loads. EchoLM employs a cost-aware cache replaymechanism to improve example quality and coverage offline, maximizing cacheutility and runtime efficiency. Evaluations on millions of open-source requestsdemonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducinglatency by 28-71% without hurting response quality on average."
+  },
+  
+  {
+    "title": "Trio Suspiro at St. Paul's Towers",
+    "url": "/posts/oakland/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-08-04 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Trio Suspiro at Vi",
+    "url": "/posts/vitrio/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-07-30 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
   },
   
   {
@@ -52,7 +69,7 @@
   },
   
   {
-    "title": "Trio Dumky Sf",
+    "title": "Dvorak's Dumky Trio: Trio Suspiro at SF Civic Music",
     "url": "/posts/trio-dumky-sf/",
     "categories": "music",
     "tags": "",
@@ -64,8 +81,8 @@
 
 
     
-    "snippet": "tab: musictitle: “Dvorak’s Dumky Trio: Trio Suspiro at SF Civic Music”date: “2025-04-12”music_event: truelink: “https://www.youtube.com/watch?v=M7DDP7I2F7M&amp;list=PLdLKuACV5ZCJdt-kWzpM-cYxrua6iP1...",
-    "content": "tab: musictitle: “Dvorak’s Dumky Trio: Trio Suspiro at SF Civic Music”date: “2025-04-12”music_event: truelink: “https://www.youtube.com/watch?v=M7DDP7I2F7M&amp;list=PLdLKuACV5ZCJdt-kWzpM-cYxrua6iP1hD&amp;index=6”location: “Noe Valley Ministry”photo: “/assets/img/brahms.jpg”-"
+    "snippet": "",
+    "content": ""
   },
   
   {
@@ -100,6 +117,23 @@
     
     "snippet": "tab: musictitle: “Tsai Duo at Vi”date: “2024-12-15”music_event: truelink: “”location: “Vi Palo Alto”photo: “/assets/img/brahms.jpg”-",
     "content": "tab: musictitle: “Tsai Duo at Vi”date: “2024-12-15”music_event: truelink: “”location: “Vi Palo Alto”photo: “/assets/img/brahms.jpg”-"
+  },
+  
+  {
+    "title": "Sunday Soiree: Beethoven Sonata No. 10",
+    "url": "/posts/soireebeet10/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-10-20 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
   },
   
   {

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2025-08-20T21:48:44-04:00</updated>
+  <updated>2025-08-20T21:57:35-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -20,46 +20,11 @@
 
   
   <entry>
-    <title>Sunday Soiree: Beethoven Sonata No. 10</title>
-    <link href="http://localhost:4000/posts/soireebeet10/" rel="alternate" type="text/html" title="Sunday Soiree: Beethoven Sonata No. 10" />
-    <published>2025-10-20T00:00:00-04:00</published>
-  
-    <updated>2025-10-20T00:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/soireebeet10/</id>
-    <content src="http://localhost:4000/posts/soireebeet10/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
     <title>EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation</title>
     <link href="http://localhost:4000/posts/icc/" rel="alternate" type="text/html" title="EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation" />
     <published>2025-10-13T01:00:00-04:00</published>
   
-    <updated>2025-10-13T01:00:00-04:00</updated>
+    <updated>2025-08-20T21:49:01-04:00</updated>
   
     <id>http://localhost:4000/posts/icc/</id>
     <content src="http://localhost:4000/posts/icc/" />
@@ -96,11 +61,81 @@ lead...
 
   
   <entry>
+    <title>Trio Suspiro at St. Paul's Towers</title>
+    <link href="http://localhost:4000/posts/oakland/" rel="alternate" type="text/html" title="Trio Suspiro at St. Paul's Towers" />
+    <published>2025-08-04T00:00:00-04:00</published>
+  
+    <updated>2025-08-04T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/oakland/</id>
+    <content src="http://localhost:4000/posts/oakland/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Trio Suspiro at Vi</title>
+    <link href="http://localhost:4000/posts/vitrio/" rel="alternate" type="text/html" title="Trio Suspiro at Vi" />
+    <published>2025-07-30T00:00:00-04:00</published>
+  
+    <updated>2025-07-30T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/vitrio/</id>
+    <content src="http://localhost:4000/posts/vitrio/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Contextual Agent Security: A Policy for Every Purpose</title>
     <link href="http://localhost:4000/posts/conseca/" rel="alternate" type="text/html" title="Contextual Agent Security: A Policy for Every Purpose" />
     <published>2025-05-14T01:00:00-04:00</published>
   
-    <updated>2025-05-14T01:00:00-04:00</updated>
+    <updated>2025-08-20T21:49:01-04:00</updated>
   
     <id>http://localhost:4000/posts/conseca/</id>
     <content src="http://localhost:4000/posts/conseca/" />
@@ -137,57 +172,14 @@ work or personal). Unlike...
 
   
   <entry>
-    <title>Trio Dumky Sf</title>
-    <link href="http://localhost:4000/posts/trio-dumky-sf/" rel="alternate" type="text/html" title="Trio Dumky Sf" />
+    <title>Dvorak's Dumky Trio: Trio Suspiro at SF Civic Music</title>
+    <link href="http://localhost:4000/posts/trio-dumky-sf/" rel="alternate" type="text/html" title="Dvorak's Dumky Trio: Trio Suspiro at SF Civic Music" />
     <published>2025-04-12T00:00:00-04:00</published>
   
     <updated>2025-04-12T00:00:00-04:00</updated>
   
     <id>http://localhost:4000/posts/trio-dumky-sf/</id>
     <content src="http://localhost:4000/posts/trio-dumky-sf/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-tab: music
-title: “Dvorak’s Dumky Trio: Trio Suspiro at SF Civic Music”
-date: “2025-04-12”
-music_event: true
-link: “https://www.youtube.com/watch?v=M7DDP7I2F7M&amp;amp;list=PLdLKuACV5ZCJdt-kWzpM-cYxrua6iP1hD&amp;amp;index=6”
-location: “Noe Valley Ministry”
-photo: “/assets/img/brahms.jpg”
--
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>An Evening of Muses, Magic, and Music with the Tsai Duo</title>
-    <link href="http://localhost:4000/posts/tsaiduo-fostercity/" rel="alternate" type="text/html" title="An Evening of Muses, Magic, and Music with the Tsai Duo" />
-    <published>2025-01-18T00:00:00-05:00</published>
-  
-    <updated>2025-01-18T00:00:00-05:00</updated>
-  
-    <id>http://localhost:4000/posts/tsaiduo-fostercity/</id>
-    <content src="http://localhost:4000/posts/tsaiduo-fostercity/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
