@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>Researcher, Engineer, Musician</subtitle>
-  <updated>2025-08-20T22:00:05-04:00</updated>
+  <updated>2025-08-20T22:15:05-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -172,14 +172,14 @@ work or personal). Unlike...
 
   
   <entry>
-    <title>Dvorak's Dumky Trio: Trio Suspiro at SF Civic Music</title>
-    <link href="http://localhost:4000/posts/trio-dumky-sf/" rel="alternate" type="text/html" title="Dvorak's Dumky Trio: Trio Suspiro at SF Civic Music" />
-    <published>2025-04-12T00:00:00-04:00</published>
+    <title>Midday Ravelry: Solo, Duo, and Trio Works of Ravel</title>
+    <link href="http://localhost:4000/posts/middayravelry/" rel="alternate" type="text/html" title="Midday Ravelry: Solo, Duo, and Trio Works of Ravel" />
+    <published>2025-04-27T00:00:00-04:00</published>
   
-    <updated>2025-08-20T21:58:06-04:00</updated>
+    <updated>2025-04-27T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/trio-dumky-sf/</id>
-    <content src="http://localhost:4000/posts/trio-dumky-sf/" />
+    <id>http://localhost:4000/posts/middayravelry/</id>
+    <content src="http://localhost:4000/posts/middayravelry/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
