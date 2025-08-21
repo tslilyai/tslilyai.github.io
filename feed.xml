@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>MIT PhD, Musician</subtitle>
-  <updated>2024-06-07T00:35:31-04:00</updated>
+  <updated>2025-08-20T21:48:44-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -13,21 +13,21 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <rights> © 2024 Lillian Tsai </rights>
+  <rights> © 2025 Lillian Tsai </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Sharing Notes: Pop-Up Music@MIT</title>
-    <link href="http://localhost:4000/posts/lobby7last/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
-    <published>2024-05-31T00:00:00-04:00</published>
+    <title>Sunday Soiree: Beethoven Sonata No. 10</title>
+    <link href="http://localhost:4000/posts/soireebeet10/" rel="alternate" type="text/html" title="Sunday Soiree: Beethoven Sonata No. 10" />
+    <published>2025-10-20T00:00:00-04:00</published>
   
-    <updated>2024-05-31T00:00:00-04:00</updated>
+    <updated>2025-10-20T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/lobby7last/</id>
-    <content src="http://localhost:4000/posts/lobby7last/" />
+    <id>http://localhost:4000/posts/soireebeet10/</id>
+    <content src="http://localhost:4000/posts/soireebeet10/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -55,49 +55,14 @@
 
   
   <entry>
-    <title>Music for Food: A Fareward Finale at the Lilypad</title>
-    <link href="http://localhost:4000/posts/finalmfflilypad/" rel="alternate" type="text/html" title="Music for Food: A Fareward Finale at the Lilypad" />
-    <published>2024-05-28T00:00:00-04:00</published>
+    <title>EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation</title>
+    <link href="http://localhost:4000/posts/icc/" rel="alternate" type="text/html" title="EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation" />
+    <published>2025-10-13T01:00:00-04:00</published>
   
-    <updated>2024-05-28T00:00:00-04:00</updated>
+    <updated>2025-10-13T01:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/finalmfflilypad/</id>
-    <content src="http://localhost:4000/posts/finalmfflilypad/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Flexible Privacy via Disguising and Revealing</title>
-    <link href="http://localhost:4000/posts/thesis/" rel="alternate" type="text/html" title="Flexible Privacy via Disguising and Revealing" />
-    <published>2024-05-17T01:00:00-04:00</published>
-  
-    <updated>2024-05-17T01:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/thesis/</id>
-    <content src="http://localhost:4000/posts/thesis/" />
+    <id>http://localhost:4000/posts/icc/</id>
+    <content src="http://localhost:4000/posts/icc/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -118,7 +83,12 @@
 
 
 
-      Edna is a system that helps web applications allow users to remove their data without permanently losing their accounts, anonymize their old data, and selectively dissociate personal data from public profiles. Edna helps developers support these features while maintaining application functionality and referential integrity via disguising and revealing transformations. Disguising selectively ren...
+      Large language models (LLMs) have excelled in various applications, yet serving
+them at scale is challenging due to their substantial resource demands and high
+latency. Our real-world studies reveal that over 60% of user requests to LLMs
+have semantically similar counterparts, suggesting the potential for knowledge
+sharing among requests. However, naively caching and reusing past responses
+lead...
     </summary>
   
 
@@ -126,14 +96,55 @@
 
   
   <entry>
-    <title>Sharing Notes: Pop-Up Music@MIT</title>
-    <link href="http://localhost:4000/posts/lobby7may2024/" rel="alternate" type="text/html" title="Sharing Notes: Pop-Up Music@MIT" />
-    <published>2024-05-08T00:00:00-04:00</published>
+    <title>Contextual Agent Security: A Policy for Every Purpose</title>
+    <link href="http://localhost:4000/posts/conseca/" rel="alternate" type="text/html" title="Contextual Agent Security: A Policy for Every Purpose" />
+    <published>2025-05-14T01:00:00-04:00</published>
   
-    <updated>2024-05-08T00:00:00-04:00</updated>
+    <updated>2025-05-14T01:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/lobby7may2024/</id>
-    <content src="http://localhost:4000/posts/lobby7may2024/" />
+    <id>http://localhost:4000/posts/conseca/</id>
+    <content src="http://localhost:4000/posts/conseca/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="research" />
+    
+    <category term="Research" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Judging an action’s safety requires knowledge of the context in which the
+action takes place. To human agents who act in various contexts, this may seem
+obvious: performing an action such as email deletion may or may not be
+appropriate depending on the email’s content, the goal (e.g., to erase
+sensitive emails or to clean up trash), and the type of email address (e.g.,
+work or personal). Unlike...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Trio Dumky Sf</title>
+    <link href="http://localhost:4000/posts/trio-dumky-sf/" rel="alternate" type="text/html" title="Trio Dumky Sf" />
+    <published>2025-04-12T00:00:00-04:00</published>
+  
+    <updated>2025-04-12T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/trio-dumky-sf/</id>
+    <content src="http://localhost:4000/posts/trio-dumky-sf/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -153,6 +164,14 @@
 
 
       
+tab: music
+title: “Dvorak’s Dumky Trio: Trio Suspiro at SF Civic Music”
+date: “2025-04-12”
+music_event: true
+link: “https://www.youtube.com/watch?v=M7DDP7I2F7M&amp;amp;list=PLdLKuACV5ZCJdt-kWzpM-cYxrua6iP1hD&amp;amp;index=6”
+location: “Noe Valley Ministry”
+photo: “/assets/img/brahms.jpg”
+-
 
     </summary>
   
@@ -161,14 +180,14 @@
 
   
   <entry>
-    <title>Sunday Soiree: Prokofiev Sonata No. 1</title>
-    <link href="http://localhost:4000/posts/soireeprok/" rel="alternate" type="text/html" title="Sunday Soiree: Prokofiev Sonata No. 1" />
-    <published>2024-04-28T00:00:00-04:00</published>
+    <title>An Evening of Muses, Magic, and Music with the Tsai Duo</title>
+    <link href="http://localhost:4000/posts/tsaiduo-fostercity/" rel="alternate" type="text/html" title="An Evening of Muses, Magic, and Music with the Tsai Duo" />
+    <published>2025-01-18T00:00:00-05:00</published>
   
-    <updated>2024-04-28T00:00:00-04:00</updated>
+    <updated>2025-01-18T00:00:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/soireeprok/</id>
-    <content src="http://localhost:4000/posts/soireeprok/" />
+    <id>http://localhost:4000/posts/tsaiduo-fostercity/</id>
+    <content src="http://localhost:4000/posts/tsaiduo-fostercity/" />
     <author>
       <name>Lillian Tsai</name>
     </author>

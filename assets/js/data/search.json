@@ -1,6 +1,108 @@
 [
   
   {
+    "title": "Sunday Soiree: Beethoven Sonata No. 10",
+    "url": "/posts/soireebeet10/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-10-20 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation",
+    "url": "/posts/icc/",
+    "categories": "research, Research",
+    "tags": "llm, ai, efficiency",
+    "date": "2025-10-13 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Large language models (LLMs) have excelled in various applications, yet servingthem at scale is challenging due to their substantial resource demands and highlatency. Our real-world studies reveal ...",
+    "content": "Large language models (LLMs) have excelled in various applications, yet servingthem at scale is challenging due to their substantial resource demands and highlatency. Our real-world studies reveal that over 60% of user requests to LLMshave semantically similar counterparts, suggesting the potential for knowledgesharing among requests. However, naively caching and reusing past responsesleads to large quality degradation.  In this paper, we introduce EchoLM, anin-context caching system that leverages historical requests as examples toguide response generation, enabling selective offloading of requests to moreefficient LLMs. However, enabling this real-time knowledge transfer leads tointricate tradeoffs between response quality, latency, and system throughput atscale. For a new request, EchoLM identifies similar, high-utility examples andefficiently prepends them to the input for better response.  At scale, EchoLMadaptively routes requests to LLMs of varying capabilities, accounting forresponse quality and serving loads. EchoLM employs a cost-aware cache replaymechanism to improve example quality and coverage offline, maximizing cacheutility and runtime efficiency. Evaluations on millions of open-source requestsdemonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducinglatency by 28-71% without hurting response quality on average."
+  },
+  
+  {
+    "title": "Contextual Agent Security: A Policy for Every Purpose",
+    "url": "/posts/conseca/",
+    "categories": "research, Research",
+    "tags": "privacy, security, agents, contextual integrity",
+    "date": "2025-05-14 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Judging an action’s safety requires knowledge of the context in which theaction takes place. To human agents who act in various contexts, this may seemobvious: performing an action such as email de...",
+    "content": "Judging an action’s safety requires knowledge of the context in which theaction takes place. To human agents who act in various contexts, this may seemobvious: performing an action such as email deletion may or may not beappropriate depending on the email’s content, the goal (e.g., to erasesensitive emails or to clean up trash), and the type of email address (e.g.,work or personal). Unlike people, computational systems have often had onlylimited agency in limited contexts. Thus, manually crafted policies and userconfirmation (e.g., smartphone app permissions or network access controllists), while imperfect, have sufficed to restrict harmful actions. However,with the upcoming deployment of generalist agents that support a multitude oftasks (e.g., an automated personal assistant), we argue that we must rethinksecurity designs to adapt to the scale of contexts and capabilities of thesesystems. As a first step, this paper explores contextual security in the domainof agents and proposes contextual agent security (Conseca), a framework togenerate just-in-time, contextual, and human-verifiable security policies."
+  },
+  
+  {
+    "title": "Trio Dumky Sf",
+    "url": "/posts/trio-dumky-sf/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-04-12 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "tab: musictitle: “Dvorak’s Dumky Trio: Trio Suspiro at SF Civic Music”date: “2025-04-12”music_event: truelink: “https://www.youtube.com/watch?v=M7DDP7I2F7M&amp;list=PLdLKuACV5ZCJdt-kWzpM-cYxrua6iP1...",
+    "content": "tab: musictitle: “Dvorak’s Dumky Trio: Trio Suspiro at SF Civic Music”date: “2025-04-12”music_event: truelink: “https://www.youtube.com/watch?v=M7DDP7I2F7M&amp;list=PLdLKuACV5ZCJdt-kWzpM-cYxrua6iP1hD&amp;index=6”location: “Noe Valley Ministry”photo: “/assets/img/brahms.jpg”-"
+  },
+  
+  {
+    "title": "An Evening of Muses, Magic, and Music with the Tsai Duo",
+    "url": "/posts/tsaiduo-fostercity/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-01-18 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Tsaiduo Vi Dec2025",
+    "url": "/posts/tsaiduo-vi-dec2025/",
+    "categories": "music",
+    "tags": "",
+    "date": "2024-12-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "tab: musictitle: “Tsai Duo at Vi”date: “2024-12-15”music_event: truelink: “”location: “Vi Palo Alto”photo: “/assets/img/brahms.jpg”-",
+    "content": "tab: musictitle: “Tsai Duo at Vi”date: “2024-12-15”music_event: truelink: “”location: “Vi Palo Alto”photo: “/assets/img/brahms.jpg”-"
+  },
+  
+  {
     "title": "Sharing Notes: Pop-Up Music@MIT",
     "url": "/posts/lobby7last/",
     "categories": "music",
@@ -320,7 +422,7 @@
 
     
     "snippet": "Honors  Concertmistress, Apollo Ensemble (2021)  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing...",
-    "content": "Honors  Concertmistress, Apollo Ensemble (2021)  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)  Artistic Director, River Charles Ensemble at Harvard (2014-16)  Concertmistress, National Youth Orchestra of the USA (2013)  1st Prize National Winner, American String Teachers Association (ASTA) National Solo Competition (Junior Violin; Kansas City, MO; 2011)  1st Prize Winner, Peninsula Symphony Young Musicians’ Competition (Solo performance with the Symphony; Los Altos and Redwood City, CA; 2012)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Strings 2011)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Ensemble 2010)  Young Performer, Music@Menlo (2008-2010)Masterclasses  Hilary Hahn  Benjamin Zander  Bayla Keyes  Jeremy Denk  Jon Nakamatsu  Jorja Fleezanis  Michael Steinberg  Ian Swenson  Bruce Adolphe  The Parker Quartet  The St. Lawrence String Quartet  The Pacifica Quartet  The Borromeo String Quartet  The Afiara Quartet  The Miro Quartet  The Ying QuartetSymphony and Chamber Groups  Tsai Duo  Apollo Ensemble  River Charles Ensemble at Harvard  Brattle Street Chamber Players at Harvard  National Youth Orchestra of the USA  San Francisco Symphony Youth Orchestra  The Elara QuartetTeachers and Mentors  Li Lin  Lynn Chang  The Parker Quartet  Hengjin Park  Marcus Thompson  Natalie Lin Douglas  David Deveau  Susan Bates  Music@Menlo Faculty Coaches  Lena GrozmanRecent Collaborators  Stephanie Tsai (cello)  Valerie Chen (cello)  Daniel Rothchild (cello)  Sophie Applbaum (cello)  Grant Riew (cello)  Sang-o Park (cello)  Jenn Chang (viola)  Ken Allen (viola)  Sam Zacharia (viola)  Mary Jane Rupert (harp)  Solon Gordon (piano)  Allen Yuan (piano)  Henry Burnam (piano)  Aristo Sham (piano)  Hanson Tam (piano)  Sitan Chen (piano)  Zachary Chin (piano)"
+    "content": "Honors  Concertmistress, Apollo Ensemble (2021)  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)  Artistic Director, River Charles Ensemble at Harvard (2014-16)  Concertmistress, National Youth Orchestra of the USA (2013)  1st Prize National Winner, American String Teachers Association (ASTA) National Solo Competition (Junior Violin; Kansas City, MO; 2011)  1st Prize Winner, Peninsula Symphony Young Musicians’ Competition (Solo performance with the Symphony; Los Altos and Redwood City, CA; 2012)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Strings 2011)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Ensemble 2010)  Young Performer, Music@Menlo (2008-2010)Masterclasses  Hilary Hahn  Benjamin Zander  Bayla Keyes  Jeremy Denk  Jon Nakamatsu  Jorja Fleezanis  Michael Steinberg  Ian Swenson  Bruce Adolphe  The Parker Quartet  The St. Lawrence String Quartet  The Pacifica Quartet  The Borromeo String Quartet  The Afiara Quartet  The Miro Quartet  The Ying QuartetSymphony and Chamber Groups  Tsai Duo  Apollo Ensemble  River Charles Ensemble at Harvard  Brattle Street Chamber Players at Harvard  National Youth Orchestra of the USA  San Francisco Symphony Youth Orchestra  The Elara QuartetTeachers and Mentors  Li Lin  Lynn Chang  The Parker Quartet  Hengjin Park  Marcus Thompson  Natalie Lin Douglas  David Deveau  Susan Bates  Music@Menlo Faculty Coaches  Lena GrozmanRecent Collaborators  Stephanie Tsai (cello)  Valerie Chen (cello)  Daniel Rothchild (cello)  Sophie Applbaum (cello)  Grant Riew (cello)  Sang-o Park (cello)  Jenn Chang (viola)  Evan Dorsky (viola)  Ken Allen (viola)  Sam Zacharia (viola)  Mary Jane Rupert (harp)  Solon Gordon (piano)  William Wang (piano)  Allen Yuan (piano)  Henry Burnam (piano)  Aristo Sham (piano)  Hanson Tam (piano)  Sitan Chen (piano)  Zachary Chin (piano)  Alex Krentsel (violin)"
   },
   
   {
