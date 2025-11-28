@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>Researcher, Engineer, Musician</subtitle>
-  <updated>2025-08-20T22:15:05-04:00</updated>
+  <updated>2025-11-27T21:01:42-05:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,46 @@
 
   
   <entry>
-    <title>EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation</title>
-    <link href="http://localhost:4000/posts/icc/" rel="alternate" type="text/html" title="EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation" />
+    <title>Trio Suspiro: A Benefit Concert for Second Harvest</title>
+    <link href="http://localhost:4000/posts/trio-suspiro-mff/" rel="alternate" type="text/html" title="Trio Suspiro: A Benefit Concert for Second Harvest" />
+    <published>2025-11-07T00:00:00-05:00</published>
+  
+    <updated>2025-11-07T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/trio-suspiro-mff/</id>
+    <content src="http://localhost:4000/posts/trio-suspiro-mff/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>IC-Cache: Efficient Large Language Model Serving via In-context Caching</title>
+    <link href="http://localhost:4000/posts/icc/" rel="alternate" type="text/html" title="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
     <published>2025-10-13T01:00:00-04:00</published>
   
-    <updated>2025-08-20T21:49:01-04:00</updated>
+    <updated>2025-11-10T12:47:09-05:00</updated>
   
     <id>http://localhost:4000/posts/icc/</id>
     <content src="http://localhost:4000/posts/icc/" />
@@ -165,41 +200,6 @@ obvious: performing an action such as email deletion may or may not be
 appropriate depending on the email’s content, the goal (e.g., to erase
 sensitive emails or to clean up trash), and the type of email address (e.g.,
 work or personal). Unlike...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Midday Ravelry: Solo, Duo, and Trio Works of Ravel</title>
-    <link href="http://localhost:4000/posts/middayravelry/" rel="alternate" type="text/html" title="Midday Ravelry: Solo, Duo, and Trio Works of Ravel" />
-    <published>2025-04-27T00:00:00-04:00</published>
-  
-    <updated>2025-04-27T00:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/middayravelry/</id>
-    <content src="http://localhost:4000/posts/middayravelry/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
     </summary>
   
 

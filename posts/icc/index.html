@@ -36,7 +36,7 @@
   
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation" />
+<meta property="og:title" content="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
 <meta name="author" content="Yifan Yu" />
 <meta property="og:locale" content="en" />
 <meta name="description" content="Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs between response quality, latency, and system throughput at scale. For a new request, EchoLM identifies similar, high-utility examples and efficiently prepends them to the input for better response. At scale, EchoLM adaptively routes requests to LLMs of varying capabilities, accounting for response quality and serving loads. EchoLM employs a cost-aware cache replay mechanism to improve example quality and coverage offline, maximizing cache utility and runtime efficiency. Evaluations on millions of open-source requests demonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducing latency by 28-71% without hurting response quality on average." />
@@ -47,16 +47,16 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-10-13T01:00:00-04:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation" />
+<meta property="twitter:title" content="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
 <meta name="twitter:site" content="@tslilyai" />
 <meta name="twitter:creator" content="@Yifan Yu" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Yifan Yu"},"dateModified":"2025-08-20T21:49:01-04:00","datePublished":"2025-10-13T01:00:00-04:00","description":"Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs between response quality, latency, and system throughput at scale. For a new request, EchoLM identifies similar, high-utility examples and efficiently prepends them to the input for better response. At scale, EchoLM adaptively routes requests to LLMs of varying capabilities, accounting for response quality and serving loads. EchoLM employs a cost-aware cache replay mechanism to improve example quality and coverage offline, maximizing cache utility and runtime efficiency. Evaluations on millions of open-source requests demonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducing latency by 28-71% without hurting response quality on average.","headline":"EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/icc/"},"url":"http://localhost:4000/posts/icc/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Yifan Yu"},"dateModified":"2025-11-10T12:47:09-05:00","datePublished":"2025-10-13T01:00:00-04:00","description":"Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs between response quality, latency, and system throughput at scale. For a new request, EchoLM identifies similar, high-utility examples and efficiently prepends them to the input for better response. At scale, EchoLM adaptively routes requests to LLMs of varying capabilities, accounting for response quality and serving loads. EchoLM employs a cost-aware cache replay mechanism to improve example quality and coverage offline, maximizing cache utility and runtime efficiency. Evaluations on millions of open-source requests demonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducing latency by 28-71% without hurting response quality on average.","headline":"IC-Cache: Efficient Large Language Model Serving via In-context Caching","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/icc/"},"url":"http://localhost:4000/posts/icc/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
 
-  <title>EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation | Lillian (Lily) Tsai
+  <title>IC-Cache: Efficient Large Language Model Serving via In-context Caching | Lillian (Lily) Tsai
   </title>
 
   <!--
@@ -431,7 +431,7 @@
                 </a>
           </span>
           
-          <span>EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation</span>
+          <span>IC-Cache: Efficient Large Language Model Serving via In-context Caching</span>
           
 
         
@@ -553,7 +553,7 @@
 
 <!-- return -->
 
-<h1 data-toc-skip>EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation</h1>
+<h1 data-toc-skip>IC-Cache: Efficient Large Language Model Serving via In-context Caching</h1>
 
 <div class="post-meta text-muted">
     <!-- published date -->
@@ -601,11 +601,11 @@
             --><!--
             -->,
             
-                <strong>Lillian Tsai</strong><!--
+                Nikhil Sarda<!--
             --><!--
             -->,
             
-                Nikhil Sarda<!--
+                <strong>Lillian Tsai</strong><!--
             --><!--
             -->,
             
@@ -744,13 +744,13 @@ latency by 28-71% without hurting response quality on average.</p>
 
     
       
-        <a href="https://twitter.com/intent/tweet?text=EchoLM%3A+Accelerating+LLM+Serving+with+Real-time+Knowledge+Distillation+-+Lillian+%28Lily%29+Tsai&url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ficc%2F" data-toggle="tooltip" data-placement="top"
+        <a href="https://twitter.com/intent/tweet?text=IC-Cache%3A+Efficient+Large+Language+Model+Serving+via+In-context+Caching+-+Lillian+%28Lily%29+Tsai&url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ficc%2F" data-toggle="tooltip" data-placement="top"
           title="Twitter" target="_blank" rel="noopener" aria-label="Twitter">
           <i class="fa-fw fab fa-twitter"></i>
         </a>
     
       
-        <a href="https://www.facebook.com/sharer/sharer.php?title=EchoLM%3A+Accelerating+LLM+Serving+with+Real-time+Knowledge+Distillation+-+Lillian+%28Lily%29+Tsai&u=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ficc%2F" data-toggle="tooltip" data-placement="top"
+        <a href="https://www.facebook.com/sharer/sharer.php?title=IC-Cache%3A+Efficient+Large+Language+Model+Serving+via+In-context+Caching+-+Lillian+%28Lily%29+Tsai&u=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ficc%2F" data-toggle="tooltip" data-placement="top"
           title="Facebook" target="_blank" rel="noopener" aria-label="Facebook">
           <i class="fa-fw fab fa-facebook-square"></i>
         </a>
