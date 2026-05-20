@@ -34,24 +34,25 @@
   
 
   
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.3.1" />
+    <!-- Begin Jekyll SEO tag v2.9.0 -->
+<meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="Type Aware Transactions for Faster Concurrent Code" />
 <meta name="author" content="Nathaniel Herman" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite for STM applications and on our own prior work, the Silo high-performance in-memory database, observing large performance improvements in both systems." />
-<meta property="og:description" content="It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite for STM applications and on our own prior work, the Silo high-performance in-memory database, observing large performance improvements in both systems." />
+<meta name="description" content="It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite…" />
+<meta name="twitter:description" property="og:description" content="It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite…" />
 <link rel="canonical" href="http://localhost:4000/posts/sto/" />
 <meta property="og:url" content="http://localhost:4000/posts/sto/" />
 <meta property="og:site_name" content="Lillian (Lily) Tsai" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2016-04-18T01:00:00-04:00" />
+<meta property="article:modified_time" content="2016-04-18T01:00:00-04:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Type Aware Transactions for Faster Concurrent Code" />
+<meta name="twitter:title" content="Type Aware Transactions for Faster Concurrent Code" />
 <meta name="twitter:site" content="@tslilyai" />
 <meta name="twitter:creator" content="@Nathaniel Herman" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Nathaniel Herman"},"dateModified":"2016-04-18T01:00:00-04:00","datePublished":"2016-04-18T01:00:00-04:00","description":"It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite for STM applications and on our own prior work, the Silo high-performance in-memory database, observing large performance improvements in both systems.","headline":"Type Aware Transactions for Faster Concurrent Code","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/sto/"},"url":"http://localhost:4000/posts/sto/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Nathaniel Herman"},"dateModified":"2016-04-18T01:00:00-04:00","datePublished":"2016-04-18T01:00:00-04:00","description":"It is often possible to improve a concurrent system’s performance by leveraging the semantics of its datatypes. We build a new software transactional memory (STM) around this observation. A conventional STM tracks read- and write-sets of memory words; even simple operations can generate large sets. Our STM, which we call STO, tracks abstract operations on transactional datatypes instead. Parts of the transactional commit protocol are delegated to these datatypes’ implementations, which can use datatype semantics, and new commit protocol features, to reduce bookkeeping, limit false conflicts, and implement efficient concurrency control. We test these ideas on the STAMP benchmark suite…","headline":"Type Aware Transactions for Faster Concurrent Code","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/sto/"},"url":"http://localhost:4000/posts/sto/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -349,7 +350,7 @@
 
       
       <a href="
-          javascript:location.href = 'mailto:' + ['tslilyai','mit.edu'].join('@')" aria-label="email"
+          javascript:location.href = 'mailto:' + ['tsai.lily.25+website','gmail.edu'].join('@')" aria-label="email"
         >
         <i class="fas fa-envelope"></i>
       </a>
@@ -806,7 +807,7 @@
     <div class="d-flex justify-content-between align-items-center text-muted ml-md-3 mr-md-3">
       <div class="footer-left">
         <p class="mb-0">
-          © 2025
+          © 2026
           <a href="https://github.com/tslilyai">tslilyai -> lily-in-tsai -> lillian tsai</a>.
           <!-- 
           <span data-toggle="tooltip" data-placement="top"

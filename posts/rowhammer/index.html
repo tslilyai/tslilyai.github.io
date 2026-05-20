@@ -34,24 +34,25 @@
   
 
   
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.3.1" />
+    <!-- Begin Jekyll SEO tag v2.9.0 -->
+<meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers" />
 <meta name="author" content="Lucian Cojocar" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing conditions. To address this limitation, we develop an instruction sequence that leverages microarchitectural side-effects to “hammer” DRAM at a near-optimal rate on modern Intel Skylake and Cascade Lake platforms. We also design a DDR4 fault injector that can reverse engineer row adjacency for any DDR4 DIMM. When applied to our cloud provider’s DIMMs, we find that DRAM rows do not always follow a linear map." />
-<meta property="og:description" content="Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing conditions. To address this limitation, we develop an instruction sequence that leverages microarchitectural side-effects to “hammer” DRAM at a near-optimal rate on modern Intel Skylake and Cascade Lake platforms. We also design a DDR4 fault injector that can reverse engineer row adjacency for any DDR4 DIMM. When applied to our cloud provider’s DIMMs, we find that DRAM rows do not always follow a linear map." />
+<meta name="description" content="Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing…" />
+<meta name="twitter:description" property="og:description" content="Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing…" />
 <link rel="canonical" href="http://localhost:4000/posts/rowhammer/" />
 <meta property="og:url" content="http://localhost:4000/posts/rowhammer/" />
 <meta property="og:site_name" content="Lillian (Lily) Tsai" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-05-18T01:00:00-04:00" />
+<meta property="article:modified_time" content="2020-05-18T01:00:00-04:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers" />
+<meta name="twitter:title" content="Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers" />
 <meta name="twitter:site" content="@tslilyai" />
 <meta name="twitter:creator" content="@Lucian Cojocar" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Lucian Cojocar"},"dateModified":"2020-05-18T01:00:00-04:00","datePublished":"2020-05-18T01:00:00-04:00","description":"Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing conditions. To address this limitation, we develop an instruction sequence that leverages microarchitectural side-effects to “hammer” DRAM at a near-optimal rate on modern Intel Skylake and Cascade Lake platforms. We also design a DDR4 fault injector that can reverse engineer row adjacency for any DDR4 DIMM. When applied to our cloud provider’s DIMMs, we find that DRAM rows do not always follow a linear map.","headline":"Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/rowhammer/"},"url":"http://localhost:4000/posts/rowhammer/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Lucian Cojocar"},"dateModified":"2020-05-18T01:00:00-04:00","datePublished":"2020-05-18T01:00:00-04:00","description":"Cloud providers are concerned that Rowhammer poses a potentially critical threat to their servers, yet today they lack a systematic way to test whether the DRAM used in their servers is vulnerable to Rowhammer attacks. This paper presents an end-to-end methodology to determine if cloud servers are susceptible to these attacks. With our methodology, a cloud provider can construct worst-case testing conditions for DRAM. We apply our methodology to three classes of servers from a major cloud provider. Our findings show that none of the CPU instruction sequences used in prior work to mount Rowhammer attacks create worst-case DRAM testing…","headline":"Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/rowhammer/"},"url":"http://localhost:4000/posts/rowhammer/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -349,7 +350,7 @@
 
       
       <a href="
-          javascript:location.href = 'mailto:' + ['tslilyai','mit.edu'].join('@')" aria-label="email"
+          javascript:location.href = 'mailto:' + ['tsai.lily.25+website','gmail.edu'].join('@')" aria-label="email"
         >
         <i class="fas fa-envelope"></i>
       </a>
@@ -797,7 +798,7 @@
     <div class="d-flex justify-content-between align-items-center text-muted ml-md-3 mr-md-3">
       <div class="footer-left">
         <p class="mb-0">
-          © 2025
+          © 2026
           <a href="https://github.com/tslilyai">tslilyai -> lily-in-tsai -> lillian tsai</a>.
           <!-- 
           <span data-toggle="tooltip" data-placement="top"

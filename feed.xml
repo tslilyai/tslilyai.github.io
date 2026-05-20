@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>Researcher, Engineer, Musician</subtitle>
-  <updated>2025-11-27T21:01:42-05:00</updated>
+  <updated>2026-05-20T00:31:52-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -12,22 +12,22 @@
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <rights> © 2025 Lillian Tsai </rights>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 Lillian Tsai </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Trio Suspiro: A Benefit Concert for Second Harvest</title>
-    <link href="http://localhost:4000/posts/trio-suspiro-mff/" rel="alternate" type="text/html" title="Trio Suspiro: A Benefit Concert for Second Harvest" />
-    <published>2025-11-07T00:00:00-05:00</published>
+    <title>Trio Suspiro: A Romantic Soiree</title>
+    <link href="http://localhost:4000/posts/vimendelssohn/" rel="alternate" type="text/html" title="Trio Suspiro: A Romantic Soiree" />
+    <published>2026-06-12T00:00:00-04:00</published>
   
-    <updated>2025-11-07T00:00:00-05:00</updated>
+    <updated>2026-06-12T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/trio-suspiro-mff/</id>
-    <content src="http://localhost:4000/posts/trio-suspiro-mff/" />
+    <id>http://localhost:4000/posts/vimendelssohn/</id>
+    <content src="http://localhost:4000/posts/vimendelssohn/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -55,14 +55,14 @@
 
   
   <entry>
-    <title>IC-Cache: Efficient Large Language Model Serving via In-context Caching</title>
-    <link href="http://localhost:4000/posts/icc/" rel="alternate" type="text/html" title="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
-    <published>2025-10-13T01:00:00-04:00</published>
+    <title>ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?</title>
+    <link href="http://localhost:4000/posts/tpdp/" rel="alternate" type="text/html" title="ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?" />
+    <published>2026-06-01T01:00:00-04:00</published>
   
-    <updated>2025-11-10T12:47:09-05:00</updated>
+    <updated>2026-06-01T01:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/icc/</id>
-    <content src="http://localhost:4000/posts/icc/" />
+    <id>http://localhost:4000/posts/tpdp/</id>
+    <content src="http://localhost:4000/posts/tpdp/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -83,12 +83,13 @@
 
 
 
-      Large language models (LLMs) have excelled in various applications, yet serving
-them at scale is challenging due to their substantial resource demands and high
-latency. Our real-world studies reveal that over 60% of user requests to LLMs
-have semantically similar counterparts, suggesting the potential for knowledge
-sharing among requests. However, naively caching and reusing past responses
-lead...
+      We built ContinuousBench, a benchmark for whether DP synthetic text retains the
+corpus-specific knowledge that motivated using a sensitive dataset in the first
+place. Existing benchmarks like IMDB and OpenReview are saturated —
+train-on-real beats no-training by only a few points (51% → 62% on OpenReview,
+94% → 97% on IMDB), leaving no room to distinguish DP synthesis methods.
+
+On ContinuousBen...
     </summary>
   
 
@@ -96,84 +97,14 @@ lead...
 
   
   <entry>
-    <title>Trio Suspiro at St. Paul's Towers</title>
-    <link href="http://localhost:4000/posts/oakland/" rel="alternate" type="text/html" title="Trio Suspiro at St. Paul's Towers" />
-    <published>2025-08-04T00:00:00-04:00</published>
+    <title>Engineering Robustness into Personal Agents with the AI Workflow Store</title>
+    <link href="http://localhost:4000/posts/workflowstore/" rel="alternate" type="text/html" title="Engineering Robustness into Personal Agents with the AI Workflow Store" />
+    <published>2026-05-11T01:00:00-04:00</published>
   
-    <updated>2025-08-04T00:00:00-04:00</updated>
+    <updated>2026-05-11T01:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/oakland/</id>
-    <content src="http://localhost:4000/posts/oakland/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Trio Suspiro at Vi</title>
-    <link href="http://localhost:4000/posts/vitrio/" rel="alternate" type="text/html" title="Trio Suspiro at Vi" />
-    <published>2025-07-30T00:00:00-04:00</published>
-  
-    <updated>2025-07-30T00:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/vitrio/</id>
-    <content src="http://localhost:4000/posts/vitrio/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Contextual Agent Security: A Policy for Every Purpose</title>
-    <link href="http://localhost:4000/posts/conseca/" rel="alternate" type="text/html" title="Contextual Agent Security: A Policy for Every Purpose" />
-    <published>2025-05-14T01:00:00-04:00</published>
-  
-    <updated>2025-08-20T21:49:01-04:00</updated>
-  
-    <id>http://localhost:4000/posts/conseca/</id>
-    <content src="http://localhost:4000/posts/conseca/" />
+    <id>http://localhost:4000/posts/workflowstore/</id>
+    <content src="http://localhost:4000/posts/workflowstore/" />
     <author>
       <name>Lillian Tsai</name>
     </author>
@@ -194,12 +125,78 @@ lead...
 
 
 
-      Judging an action’s safety requires knowledge of the context in which the
-action takes place. To human agents who act in various contexts, this may seem
-obvious: performing an action such as email deletion may or may not be
-appropriate depending on the email’s content, the goal (e.g., to erase
-sensitive emails or to clean up trash), and the type of email address (e.g.,
-work or personal). Unlike...
+      The dominant paradigm for AI agents is an “on-the-fly” loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm short-circuits disciplined software engineering (SE) processes – iterative design, rigorous testing, adversarial evaluation, staged deployment, and more – that have delivered the (relatively) reliable ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>An AI Agent Execution Environment to Safeguard User Data</title>
+    <link href="http://localhost:4000/posts/gaap/" rel="alternate" type="text/html" title="An AI Agent Execution Environment to Safeguard User Data" />
+    <published>2026-04-21T01:00:00-04:00</published>
+  
+    <updated>2026-04-21T01:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/gaap/</id>
+    <content src="http://localhost:4000/posts/gaap/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="research" />
+    
+    <category term="Research" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      AI agents promise to serve as general-purpose personal assistants for their users, which requires them to have access to private user data (e.g., personal and financial information). This poses a serious risk to security and privacy. Adversaries may attack the AI model (e.g., via prompt injection) to exfiltrate user data. Furthermore, sharing private data with an AI agent requires users to trus...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Music for Food: An Evening of Kodaly and Shostakovich</title>
+    <link href="http://localhost:4000/posts/mffkodalyshosti/" rel="alternate" type="text/html" title="Music for Food: An Evening of Kodaly and Shostakovich" />
+    <published>2026-04-18T00:00:00-04:00</published>
+  
+    <updated>2026-04-18T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/mffkodalyshosti/</id>
+    <content src="http://localhost:4000/posts/mffkodalyshosti/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
     </summary>
   
 

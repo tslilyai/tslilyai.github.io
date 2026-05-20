@@ -1,6 +1,108 @@
 [
   
   {
+    "title": "Trio Suspiro: A Romantic Soiree",
+    "url": "/posts/vimendelssohn/",
+    "categories": "music",
+    "tags": "",
+    "date": "2026-06-12 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?",
+    "url": "/posts/tpdp/",
+    "categories": "research, Research",
+    "tags": "differential privacy, ai, benchmark",
+    "date": "2026-06-01 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "We built ContinuousBench, a benchmark for whether DP synthetic text retains thecorpus-specific knowledge that motivated using a sensitive dataset in the firstplace. Existing benchmarks like IMDB an...",
+    "content": "We built ContinuousBench, a benchmark for whether DP synthetic text retains thecorpus-specific knowledge that motivated using a sensitive dataset in the firstplace. Existing benchmarks like IMDB and OpenReview are saturated —train-on-real beats no-training by only a few points (51% → 62% on OpenReview,94% → 97% on IMDB), leaving no room to distinguish DP synthesis methods.On ContinuousBench, training on the real corpus jumps a Gemma 3 4B model from~1% → ~97% on Geminon and from ~14% → ~70% on News. Yet with differentialprivacy, even at ε = 100, SOTA DP synthesis only reaches ~4% on Geminon and ~26%on News, nowhere near train-on-real."
+  },
+  
+  {
+    "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+    "url": "/posts/workflowstore/",
+    "categories": "research, Research",
+    "tags": "privacy, security, AI, agents",
+    "date": "2026-05-11 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "The dominant paradigm for AI agents is an “on-the-fly” loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm s...",
+    "content": "The dominant paradigm for AI agents is an “on-the-fly” loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm short-circuits disciplined software engineering (SE) processes – iterative design, rigorous testing, adversarial evaluation, staged deployment, and more – that have delivered the (relatively) reliable and secure systems we use today. By focusing on rapid, real-time synthesis, are AI agents effectively delivering users improvised prototypes rather than systems fit for high-stakes scenarios in which users may unwittingly apply them?This paper argues for the need to integrate rigorous SE processes into the agentic loop to produce production-grade, hardened, and deterministically-constrained agent workflows that substantially outperform the potentially brittle and vulnerable results of on-the-fly synthesis. Doing so may require extra compute and time, and if so, we must amortize the cost of rigor through reuse across a broad user community. We envision an AI Workflow Store that consists of hardened and reusable workflows that agents can invoke with far greater reliability and security than improvised tool chains. We outline the research challenges of this vision, which stem from a broader flexibility-robustness tension that we argue requires moving beyond the “on-the-fly” paradigm to navigate effectively."
+  },
+  
+  {
+    "title": "An AI Agent Execution Environment to Safeguard User Data",
+    "url": "/posts/gaap/",
+    "categories": "research, Research",
+    "tags": "privacy, ifc, AI, agents",
+    "date": "2026-04-21 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "AI agents promise to serve as general-purpose personal assistants for their users, which requires them to have access to private user data (e.g., personal and financial information). This poses a s...",
+    "content": "AI agents promise to serve as general-purpose personal assistants for their users, which requires them to have access to private user data (e.g., personal and financial information). This poses a serious risk to security and privacy. Adversaries may attack the AI model (e.g., via prompt injection) to exfiltrate user data. Furthermore, sharing private data with an AI agent requires users to trust a potentially unscrupulous or compromised AI model provider with their private data.This paper presents GAAP (Guaranteed Accounting for Agent Privacy), an execution environment for AI agents that guarantees confidentiality for private user data. Through dynamic and directed user prompts, GAAP collects permission specifications from users describing how their private data may be shared, and GAAP enforces that the agent’s disclosures of private user data, including disclosures to the AI model and its provider, comply with these specifications. Crucially, GAAP provides this guarantee deterministically, without trusting the agent with private user data, and without requiring any AI model or the user prompt to be free of attacks.GAAP enforces the user’s permission specification by tracking how the AI agent accesses and uses private user data. It augments Information Flow Control with novel persistent data stores and annotations that enable it to track the flow of private information both across execution steps within a single task, and also over multiple tasks separated in time. Our evaluation confirms that GAAP blocks all data disclosure attacks, including those that make other state-of-the-art systems disclose private user data to untrusted parties, without a significant impact on agent utility."
+  },
+  
+  {
+    "title": "Music for Food: An Evening of Kodaly and Shostakovich",
+    "url": "/posts/mffkodalyshosti/",
+    "categories": "music",
+    "tags": "",
+    "date": "2026-04-18 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Four Quarters Quartet",
+    "url": "/posts/4quarters/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-11-14 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
     "title": "Trio Suspiro: A Benefit Concert for Second Harvest",
     "url": "/posts/trio-suspiro-mff/",
     "categories": "music",
@@ -32,6 +134,23 @@
     
     "snippet": "Large language models (LLMs) have excelled in various applications, yet servingthem at scale is challenging due to their substantial resource demands and highlatency. Our real-world studies reveal ...",
     "content": "Large language models (LLMs) have excelled in various applications, yet servingthem at scale is challenging due to their substantial resource demands and highlatency. Our real-world studies reveal that over 60% of user requests to LLMshave semantically similar counterparts, suggesting the potential for knowledgesharing among requests. However, naively caching and reusing past responsesleads to large quality degradation.  In this paper, we introduce EchoLM, anin-context caching system that leverages historical requests as examples toguide response generation, enabling selective offloading of requests to moreefficient LLMs. However, enabling this real-time knowledge transfer leads tointricate tradeoffs between response quality, latency, and system throughput atscale. For a new request, EchoLM identifies similar, high-utility examples andefficiently prepends them to the input for better response.  At scale, EchoLMadaptively routes requests to LLMs of varying capabilities, accounting forresponse quality and serving loads. EchoLM employs a cost-aware cache replaymechanism to improve example quality and coverage offline, maximizing cacheutility and runtime efficiency. Evaluations on millions of open-source requestsdemonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducinglatency by 28-71% without hurting response quality on average."
+  },
+  
+  {
+    "title": "A Ravel Duo Soiree",
+    "url": "/posts/ravelsoiree/",
+    "categories": "music",
+    "tags": "",
+    "date": "2025-09-12 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
   },
   
   {
@@ -490,7 +609,7 @@
 
     
     "snippet": "Honors  Concertmistress, Apollo Ensemble (2021)  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing...",
-    "content": "Honors  Concertmistress, Apollo Ensemble (2021)  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)  Artistic Director, River Charles Ensemble at Harvard (2014-16)  Concertmistress, National Youth Orchestra of the USA (2013)  1st Prize National Winner, American String Teachers Association (ASTA) National Solo Competition (Junior Violin; Kansas City, MO; 2011)  1st Prize Winner, Peninsula Symphony Young Musicians’ Competition (Solo performance with the Symphony; Los Altos and Redwood City, CA; 2012)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Strings 2011)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Ensemble 2010)  Young Performer, Music@Menlo (2008-2010)Masterclasses  Hilary Hahn  Benjamin Zander  Bayla Keyes  Jeremy Denk  Jon Nakamatsu  Jorja Fleezanis  Michael Steinberg  Ian Swenson  Bruce Adolphe  The Parker Quartet  The St. Lawrence String Quartet  The Pacifica Quartet  The Borromeo String Quartet  The Afiara Quartet  The Miro Quartet  The Ying QuartetSymphony and Chamber Groups  Tsai Duo  Apollo Ensemble  River Charles Ensemble at Harvard  Brattle Street Chamber Players at Harvard  National Youth Orchestra of the USA  San Francisco Symphony Youth Orchestra  The Elara QuartetTeachers and Mentors  Li Lin  Lynn Chang  The Parker Quartet  Hengjin Park  Marcus Thompson  Natalie Lin Douglas  David Deveau  Susan Bates  Music@Menlo Faculty Coaches  Lena GrozmanRecent Collaborators  Stephanie Tsai (cello)  Valerie Chen (cello)  Daniel Rothchild (cello)  Sophie Applbaum (cello)  Grant Riew (cello)  Sang-o Park (cello)  Jenn Chang (viola)  Evan Dorsky (viola)  Ken Allen (viola)  Sam Zacharia (viola)  Mary Jane Rupert (harp)  Solon Gordon (piano)  William Wang (piano)  Allen Yuan (piano)  Henry Burnam (piano)  Aristo Sham (piano)  Hanson Tam (piano)  Sitan Chen (piano)  Zachary Chin (piano)  Alex Krentsel (violin)"
+    "content": "Honors  Concertmistress, Apollo Ensemble (2021)  Emerson Fellowship, MIT (2018-2019)  David McCord Prize, Harvard University (for unusual creative talent in writing, drama, music, painting, drawing or sculpture; 2017)  Artistic Director, River Charles Ensemble at Harvard (2014-16)  Concertmistress, National Youth Orchestra of the USA (2013)  1st Prize National Winner, American String Teachers Association (ASTA) National Solo Competition (Junior Violin; Kansas City, MO; 2011)  1st Prize Winner, Peninsula Symphony Young Musicians’ Competition (Solo performance with the Symphony; Los Altos and Redwood City, CA; 2012)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Strings 2011)  1st Prize State Winner, Music Teachers’ Association of California (MTAC) VOCE Competition (Orange, CA; Intermediate Ensemble 2010)  Young Performer, Music@Menlo (2008-2010)Masterclasses  Hilary Hahn  Benjamin Zander  Bayla Keyes  Jeremy Denk  Jon Nakamatsu  Jorja Fleezanis  Michael Steinberg  Ian Swenson  Bruce Adolphe  The Parker Quartet  The St. Lawrence String Quartet  The Pacifica Quartet  The Borromeo String Quartet  The Afiara Quartet  The Miro Quartet  The Ying QuartetSymphony and Chamber Groups  Tsai Duo  Apollo Ensemble  River Charles Ensemble at Harvard  Brattle Street Chamber Players at Harvard  National Youth Orchestra of the USA  San Francisco Symphony Youth Orchestra  The Elara QuartetTeachers and Mentors  Li Lin  Lynn Chang  The Parker Quartet  Hengjin Park  Marcus Thompson  Natalie Lin Douglas  David Deveau  Susan Bates  Music@Menlo Faculty Coaches  Lena GrozmanRecent Collaborators  Stephanie Tsai (cello)  Valerie Chen (cello)  Daniel Rothchild (cello)  Sophie Applbaum (cello)  Grant Riew (cello)  Sang-o Park (cello)  Jenn Chang (viola)  Evan Dorsky (viola)  Ken Allen (viola)  Sam Zacharia (viola)  Mary Jane Rupert (harp)  Ben-han Sung (piano)  Solon Gordon (piano)  William Wang (piano)  Allen Yuan (piano)  Henry Burnam (piano)  Aristo Sham (piano)  Hanson Tam (piano)  Sitan Chen (piano)  Zachary Chin (piano)  Nathan Cheung (piano)  Emma Woo (piano)  Alex Krentsel (violin)  Jen Hsiao (violin)"
   },
   
   {

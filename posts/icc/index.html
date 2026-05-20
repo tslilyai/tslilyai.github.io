@@ -34,24 +34,25 @@
   
 
   
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.3.1" />
+    <!-- Begin Jekyll SEO tag v2.9.0 -->
+<meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
 <meta name="author" content="Yifan Yu" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs between response quality, latency, and system throughput at scale. For a new request, EchoLM identifies similar, high-utility examples and efficiently prepends them to the input for better response. At scale, EchoLM adaptively routes requests to LLMs of varying capabilities, accounting for response quality and serving loads. EchoLM employs a cost-aware cache replay mechanism to improve example quality and coverage offline, maximizing cache utility and runtime efficiency. Evaluations on millions of open-source requests demonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducing latency by 28-71% without hurting response quality on average." />
-<meta property="og:description" content="Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs between response quality, latency, and system throughput at scale. For a new request, EchoLM identifies similar, high-utility examples and efficiently prepends them to the input for better response. At scale, EchoLM adaptively routes requests to LLMs of varying capabilities, accounting for response quality and serving loads. EchoLM employs a cost-aware cache replay mechanism to improve example quality and coverage offline, maximizing cache utility and runtime efficiency. Evaluations on millions of open-source requests demonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducing latency by 28-71% without hurting response quality on average." />
+<meta name="description" content="Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs…" />
+<meta name="twitter:description" property="og:description" content="Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs…" />
 <link rel="canonical" href="http://localhost:4000/posts/icc/" />
 <meta property="og:url" content="http://localhost:4000/posts/icc/" />
 <meta property="og:site_name" content="Lillian (Lily) Tsai" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-10-13T01:00:00-04:00" />
+<meta property="article:modified_time" content="2025-11-10T12:47:09-05:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
+<meta name="twitter:title" content="IC-Cache: Efficient Large Language Model Serving via In-context Caching" />
 <meta name="twitter:site" content="@tslilyai" />
 <meta name="twitter:creator" content="@Yifan Yu" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Yifan Yu"},"dateModified":"2025-11-10T12:47:09-05:00","datePublished":"2025-10-13T01:00:00-04:00","description":"Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs between response quality, latency, and system throughput at scale. For a new request, EchoLM identifies similar, high-utility examples and efficiently prepends them to the input for better response. At scale, EchoLM adaptively routes requests to LLMs of varying capabilities, accounting for response quality and serving loads. EchoLM employs a cost-aware cache replay mechanism to improve example quality and coverage offline, maximizing cache utility and runtime efficiency. Evaluations on millions of open-source requests demonstrate that EchoLM has a throughput improvement of 1.4-5.9x while reducing latency by 28-71% without hurting response quality on average.","headline":"IC-Cache: Efficient Large Language Model Serving via In-context Caching","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/icc/"},"url":"http://localhost:4000/posts/icc/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Yifan Yu"},"dateModified":"2025-11-10T12:47:09-05:00","datePublished":"2025-10-13T01:00:00-04:00","description":"Large language models (LLMs) have excelled in various applications, yet serving them at scale is challenging due to their substantial resource demands and high latency. Our real-world studies reveal that over 60% of user requests to LLMs have semantically similar counterparts, suggesting the potential for knowledge sharing among requests. However, naively caching and reusing past responses leads to large quality degradation. In this paper, we introduce EchoLM, an in-context caching system that leverages historical requests as examples to guide response generation, enabling selective offloading of requests to more efficient LLMs. However, enabling this real-time knowledge transfer leads to intricate tradeoffs…","headline":"IC-Cache: Efficient Large Language Model Serving via In-context Caching","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/icc/"},"url":"http://localhost:4000/posts/icc/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -349,7 +350,7 @@
 
       
       <a href="
-          javascript:location.href = 'mailto:' + ['tslilyai','mit.edu'].join('@')" aria-label="email"
+          javascript:location.href = 'mailto:' + ['tsai.lily.25+website','gmail.edu'].join('@')" aria-label="email"
         >
         <i class="fas fa-envelope"></i>
       </a>
@@ -833,7 +834,7 @@ latency by 28-71% without hurting response quality on average.</p>
     <div class="d-flex justify-content-between align-items-center text-muted ml-md-3 mr-md-3">
       <div class="footer-left">
         <p class="mb-0">
-          © 2025
+          © 2026
           <a href="https://github.com/tslilyai">tslilyai -> lily-in-tsai -> lillian tsai</a>.
           <!-- 
           <span data-toggle="tooltip" data-placement="top"
