@@ -1,6 +1,40 @@
 [
   
   {
+    "title": "Sapien: A Stateful Policy Engine for Autonomous AI Agents",
+    "url": "/posts/sapien/",
+    "categories": "research, Research",
+    "tags": "ai, agents, policies, contextual",
+    "date": "2026-10-01 01:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Contextual security defenses prevent AI agents from taking rogue actions by synthesizing a task-specific policy and enforcing it on the agent’s tool calls. In multi-step tasks, however, which actio...",
+    "content": "Contextual security defenses prevent AI agents from taking rogue actions by synthesizing a task-specific policy and enforcing it on the agent’s tool calls. In multi-step tasks, however, which actions are valid often depends on what the agent has already done and learned. We present Sapien, a policy engine for enforcing stateful contextual policies. A Sapien policy specifies permitted tool-call sequences using a regular expression extended with stateful predicates, deferred policy generation, and scoped semantic checks. We show that Sapien stays within a few percent of an unconstrained agent’s utility. Even if the agent is fully hijacked, Sapien’s policies rule out 93-95% of attacks on AgentDojo and 62-85% on Toolathlon (twice as many as tool allowlists on long-horizon tasks)."
+  },
+  
+  {
+    "title": "Chaconne! Violin and Choir",
+    "url": "/posts/chaconne/",
+    "categories": "music",
+    "tags": "",
+    "date": "2026-09-27 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
     "title": "Trio Suspiro: A Romantic Soiree",
     "url": "/posts/vimendelssohn/",
     "categories": "music",

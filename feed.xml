@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>Researcher, Engineer, Musician</subtitle>
-  <updated>2026-07-16T00:21:39-04:00</updated>
+  <updated>2026-10-02T00:32:20-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,77 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Sapien: A Stateful Policy Engine for Autonomous AI Agents</title>
+    <link href="http://localhost:4000/posts/sapien/" rel="alternate" type="text/html" title="Sapien: A Stateful Policy Engine for Autonomous AI Agents" />
+    <published>2026-10-01T01:00:00-04:00</published>
+  
+    <updated>2026-10-02T00:32:16-04:00</updated>
+  
+    <id>http://localhost:4000/posts/sapien/</id>
+    <content src="http://localhost:4000/posts/sapien/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="research" />
+    
+    <category term="Research" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Contextual security defenses prevent AI agents from taking rogue actions by synthesizing a task-specific policy and enforcing it on the agent’s tool calls. In multi-step tasks, however, which actions are valid often depends on what the agent has already done and learned. We present Sapien, a policy engine for enforcing stateful contextual policies. A Sapien policy specifies permitted tool-call ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Chaconne! Violin and Choir</title>
+    <link href="http://localhost:4000/posts/chaconne/" rel="alternate" type="text/html" title="Chaconne! Violin and Choir" />
+    <published>2026-09-27T00:00:00-04:00</published>
+  
+    <updated>2026-10-02T00:28:02-04:00</updated>
+  
+    <id>http://localhost:4000/posts/chaconne/</id>
+    <content src="http://localhost:4000/posts/chaconne/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="music" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -101,7 +172,7 @@ On ContinuousBen...
     <link href="http://localhost:4000/posts/workflowstore/" rel="alternate" type="text/html" title="Engineering Robustness into Personal Agents with the AI Workflow Store" />
     <published>2026-05-11T01:00:00-04:00</published>
   
-    <updated>2026-05-11T01:00:00-04:00</updated>
+    <updated>2026-10-02T00:27:45-04:00</updated>
   
     <id>http://localhost:4000/posts/workflowstore/</id>
     <content src="http://localhost:4000/posts/workflowstore/" />
@@ -126,77 +197,6 @@ On ContinuousBen...
 
 
       The dominant paradigm for AI agents is an “on-the-fly” loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm short-circuits disciplined software engineering (SE) processes – iterative design, rigorous testing, adversarial evaluation, staged deployment, and more – that have delivered the (relatively) reliable ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>An AI Agent Execution Environment to Safeguard User Data</title>
-    <link href="http://localhost:4000/posts/gaap/" rel="alternate" type="text/html" title="An AI Agent Execution Environment to Safeguard User Data" />
-    <published>2026-04-21T01:00:00-04:00</published>
-  
-    <updated>2026-04-21T01:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/gaap/</id>
-    <content src="http://localhost:4000/posts/gaap/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="research" />
-    
-    <category term="Research" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      AI agents promise to serve as general-purpose personal assistants for their users, which requires them to have access to private user data (e.g., personal and financial information). This poses a serious risk to security and privacy. Adversaries may attack the AI model (e.g., via prompt injection) to exfiltrate user data. Furthermore, sharing private data with an AI agent requires users to trus...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Music for Food: An Evening of Kodaly and Shostakovich</title>
-    <link href="http://localhost:4000/posts/mffkodalyshosti/" rel="alternate" type="text/html" title="Music for Food: An Evening of Kodaly and Shostakovich" />
-    <published>2026-04-18T00:00:00-04:00</published>
-  
-    <updated>2026-04-18T00:00:00-04:00</updated>
-  
-    <id>http://localhost:4000/posts/mffkodalyshosti/</id>
-    <content src="http://localhost:4000/posts/mffkodalyshosti/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="music" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
     </summary>
   
 
