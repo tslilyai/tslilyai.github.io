@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Lillian (Lily) Tsai</title>
   <subtitle>Researcher, Engineer, Musician</subtitle>
-  <updated>2026-10-02T00:32:20-04:00</updated>
+  <updated>2026-10-09T00:31:44-04:00</updated>
   <author>
     <name>Lillian Tsai</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,43 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle</title>
+    <link href="http://localhost:4000/posts/caps/" rel="alternate" type="text/html" title="Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle" />
+    <published>2026-10-04T01:00:00-04:00</published>
+  
+    <updated>2026-10-04T01:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/caps/</id>
+    <content src="http://localhost:4000/posts/caps/" />
+    <author>
+      <name>Lillian Tsai</name>
+    </author>
+
+  
+    
+    <category term="research" />
+    
+    <category term="Research" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -161,42 +198,6 @@ train-on-real beats no-training by only a few points (51% → 62% on OpenReview,
 94% → 97% on IMDB), leaving no room to distinguish DP synthesis methods.
 
 On ContinuousBen...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Engineering Robustness into Personal Agents with the AI Workflow Store</title>
-    <link href="http://localhost:4000/posts/workflowstore/" rel="alternate" type="text/html" title="Engineering Robustness into Personal Agents with the AI Workflow Store" />
-    <published>2026-05-11T01:00:00-04:00</published>
-  
-    <updated>2026-10-02T00:27:45-04:00</updated>
-  
-    <id>http://localhost:4000/posts/workflowstore/</id>
-    <content src="http://localhost:4000/posts/workflowstore/" />
-    <author>
-      <name>Lillian Tsai</name>
-    </author>
-
-  
-    
-    <category term="research" />
-    
-    <category term="Research" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      The dominant paradigm for AI agents is an “on-the-fly” loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm short-circuits disciplined software engineering (SE) processes – iterative design, rigorous testing, adversarial evaluation, staged deployment, and more – that have delivered the (relatively) reliable ...
     </summary>
   
 
